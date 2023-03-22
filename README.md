@@ -12,3 +12,5 @@
 ## References
 https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-4-44
 [Estimated Minimal Divergence Times of the Major Bacterial and Archaeal Phyla](https://sci-hub.se/https://doi.org/10.1080/01490450303891)
+[On the origin of oxygenic photosynthesis and Cyanobacteria](On the origin of oxygenic photosynthesis and Cyanobacteria)
+
