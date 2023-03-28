@@ -23,7 +23,7 @@ Sobre relojes en un clúster biosintético
 ### Parte práctica 50%  
 1. Realizar un pangenoma aplicado a clústeres biosinteticos  
  Antón.  Tomar el _Streptomyces coelicolor_     
- Yovanni Tomar adaK/HisA en los linages Microbispora, Nonomuraea y Streptosporangium      
+ Yovanni Tomar adaK/HisA del cluster [BGC0001484](https://mibig.secondarymetabolites.org/repository/BGC0001484/index.html#r1c1) en los linages Microbispora, Nonomuraea y Streptosporangium      
  A. Seleccionar organismos similares (correr varios sets, a nivel de género, de especie, familia etc)   
  B. Describir el pangenoma de sus clústeres   
 
