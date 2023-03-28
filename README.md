@@ -27,9 +27,12 @@ Sobre relojes en un clúster biosintético
  A. Seleccionar organismos similares (correr varios sets, a nivel de género, de especie, familia etc)   
  B. Describir el pangenoma de sus clústeres   
 
-2. Escoger uno de los dos proyectos 
-  Realizar 1 reloj molecular de un cluster del organismo seleccionado.  
-  Identificar con herramientas bioinformáticas si algunos clústeres biosintéticos provienen de transferencia horizontal.  
+2. Escoger uno de los dos proyectos   
+  a) Realizar 1 reloj molecular de un cluster del organismo seleccionado.    
+  b) Identificar con herramientas bioinformáticas si algunos clústeres biosintéticos provienen de transferencia horizontal. 
+  c) Predecir futuro de una familia de proteinas 
+  
+  Escoger literatura, y repetir sus métodos, para alguno de los clústeres del proyecto1.  
   
  ### Documentación y repetibilidad 30%
  Entregar un reporte en github en r markdown o jupyter notebook donde todo el código sea repetible (Corra bien, esté bien documentado e incluya todos los datos)
