@@ -1,0 +1,7 @@
+{
+    "shellcheck.useWorkspaceRootAsCwd": true,
+    "shellcheck.customArgs": [
+        "-x"
+    ],
+    "editor.tabSize": 2
+}
