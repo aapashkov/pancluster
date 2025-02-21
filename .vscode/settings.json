@@ -1,7 +1,6 @@
 {
-    "shellcheck.useWorkspaceRootAsCwd": true,
-    "shellcheck.customArgs": [
-        "-x"
-    ],
+    "files.watcherExclude": {
+        "**/data/**": true
+    },
     "editor.tabSize": 2
 }
