@@ -19,17 +19,17 @@ CPUS=${CPUS:-1}
 outdir=$1
 accession=$2
 tmp=$(mktemp -dp "$outdir" .tmp.XXX)
-printf '%s\n' "created temporary directory '$tmp'" >&2
+printf '%s\n' "created temporary directory '$tmp'"
 trap 'rm -vrf "$tmp" >&2' EXIT
 
 # Check for required programs
 if ! command -v fasterq-dump > /dev/null; then
-  printf '%s\n' "error: fasterq-dump: command not found" >&2
+  printf '%s\n' "error: fasterq-dump: command not found"
   exit 1
 fi
 
 if ! command -v gzip > /dev/null && ! command -v pigz > /dev/null; then
-  printf '%s\n' "error: gzip or pigz required but neither is available" >&2
+  printf '%s\n' "error: gzip or pigz required but neither is available"
   exit 1
 fi
 
@@ -43,18 +43,18 @@ fasterq-dump --outdir "$tmp" \
   --details \
   --seq-defline '@$ac.$si/$ri' \
   --qual-defline '+' \
-  "$tmp/$accession" >&2
+  "$tmp/$accession"
 rm -v "$tmp/$accession"/*
 rmdir -v "$tmp/$accession"
 
 # Compress outputs
 if command -v pigz > /dev/null; then
-  pigz -vp "$CPUS" "$tmp"/* >&2
+  pigz -vp "$CPUS" "$tmp"/*
 else
-  gzip -v "$tmp"/* >&2
+  gzip -v "$tmp"/*
 fi
-chmod -v 666 "$tmp"/* >&2
-mv -v "$tmp"/* "$outdir"/ >&2
+chmod -v 666 "$tmp"/*
+mv -v "$tmp"/* "$outdir"/
 
 exit 0
-}
+} >&2

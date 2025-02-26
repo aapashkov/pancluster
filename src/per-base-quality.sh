@@ -17,7 +17,7 @@ example: $(basename "$0") reads.fastq.gz result.png"
 # Check for required programs
 for program in fastqc unzip; do
   if ! command -v $program > /dev/null; then
-    printf '%s\n' "error: $program: command not found" >&2
+    printf '%s\n' "error: $program: command not found"
     exit 1
   fi
 done
@@ -29,16 +29,16 @@ outfile=$2
 outdir=$(dirname "$outfile")
 outbase=$(basename "$outfile")
 tmp=$(mktemp -dp "$outdir" .tmp.XXX)
-printf '%s\n' "created temporary directory '$tmp'" >&2
+printf '%s\n' "created temporary directory '$tmp'"
 trap 'rm -vrf "$tmp" >&2' EXIT
 
-fastqc --threads "$CPUS" --outdir "$tmp" "$infile" >&2
+fastqc --threads "$CPUS" --outdir "$tmp" "$infile"
 tmpbase=$(basename -as .zip "$tmp"/*.zip)
 unzip -p "$tmp/$tmpbase.zip" "$tmpbase/Images/per_base_quality.png" \
   > "$tmp/${outbase}"
 
-chmod -v 666 "$tmp/${outbase}" >&2
-mv -v "$tmp/${outbase}" "$outfile" >&2
+chmod -v 666 "$tmp/${outbase}"
+mv -v "$tmp/${outbase}" "$outfile"
 
 exit 0
-}
+} >&2
