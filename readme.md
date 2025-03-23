@@ -15,3 +15,5 @@ cd pancluster
 : # ⚡ Run pipeline
 docker compose up
 ```
+
+Thanks to PAPIIT IA106323 “Pan-cluster, herramientas de Big data para caracterización pangenómica de clústeres biosintéticos en microorganismos” for the funds provided that made the development of this project possible.
