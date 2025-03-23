@@ -12,7 +12,7 @@ gzip-compressed in OUTDIR.
 example: $(basename "$0") ./output/reads SRR32193854"
 
 # Show help message if insufficient parameters
-[[ "$#" -lt 2 ]] && printf '%s\n' "$help" >&2 && exit 1
+[[ "$#" -lt 2 ]] && printf '%s\n' "$help" && exit 1
 
 # Setup variables, inputs, outputs and temporary directory
 CPUS=${CPUS:-1}

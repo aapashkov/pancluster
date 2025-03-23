@@ -1,6 +1,0 @@
-{
-    "files.watcherExclude": {
-        "**/data/**": true
-    },
-    "editor.tabSize": 2
-}

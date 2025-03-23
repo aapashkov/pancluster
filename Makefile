@@ -24,12 +24,15 @@ reads = data/reads
 raw = data/reads/raw
 trimmed = data/reads/trimmed
 qualities = results/qualities
+read_stats = results/read-stats
 
 all: $(paired_illumina:%=$(raw)/%_1.fastq.gz) \
   $(nanopore:%=$(raw)/%.fastq.gz) \
   $(paired_illumina:%=$(trimmed)/%_1.fastq.gz) \
   $(nanopore:%=$(trimmed)/%.fastq.gz) \
-  $(paired_illumina:%=$(qualities)/%.png)
+  $(paired_illumina:%=$(qualities)/%.png) \
+  $(nanopore:%=$(read_stats)/%.tsv) \
+  $(paired_illumina:%=$(read_stats)/%.tsv)
 > @$(call log,All finished)
 
 # Downloads reads from SRA
@@ -66,3 +69,19 @@ $(trimmed)/%.fastq.gz: $(raw)/%.fastq.gz
   $(SHELL) ./src/trim-nanopore.sh $< $@ &> $(logs)/trimming-$*.log && \
   chmod 666 $@ $(logs)/trimming-$*.log && \
   $(call log,Finished trimming $*)
+
+# Extracts statistics from raw Illumina reads
+$(read_stats)/%.tsv: $(raw)/%_1.fastq.gz
+> @$(call log,Extracting statistics from $*) && \
+  mkdir -pm 777 $(basedirs) $(read_stats) && \
+  $(SHELL) ./src/get-read-stats.sh $< $@ &> $(logs)/stats-$*.log && \
+  chmod 666 $@ $(logs)/stats-$*.log && \
+  $(call log,Finished extracting statistics from $*)
+
+# Extracts statistics from raw Nanopore reads
+$(read_stats)/%.tsv: $(raw)/%.fastq.gz
+> @$(call log,Extracting statistics from $*) && \
+  mkdir -pm 777 $(basedirs) $(read_stats) && \
+  $(SHELL) ./src/get-read-stats.sh $< $@ &> $(logs)/stats-$*.log && \
+  chmod 666 $@ $(logs)/stats-$*.log && \
+  $(call log,Finished extracting statistics from $*)

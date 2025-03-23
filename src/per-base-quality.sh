@@ -12,7 +12,7 @@ OUTFILE.
 example: $(basename "$0") reads.fastq.gz result.png"
 
 # Show help message if insufficient parameters
-[[ "$#" -lt 1 ]] && printf '%s\n' "$help" >&2 && exit 1
+[[ "$#" -lt 1 ]] && printf '%s\n' "$help" && exit 1
 
 # Check for required programs
 for program in fastqc unzip; do
