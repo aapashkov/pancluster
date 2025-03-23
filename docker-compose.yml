@@ -1,0 +1,7 @@
+services:
+  pipeline:
+    image: aapashkov/pancluster
+    working_dir: /ext
+    volumes:
+      - ./:/ext
+    command: make

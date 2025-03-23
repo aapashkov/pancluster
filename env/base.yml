@@ -1,0 +1,16 @@
+name: base
+channels:
+- bioconda
+- conda-forge
+dependencies:
+- codingquarry=2.0
+- evidencemodeler=2.1.0
+- glimmerhmm=3.0.4
+- mysql-connector-c=6.1.11
+- ncbi-datasets-cli=17.0.0
+- pasa=2.5.3
+- pblat=2.5.1
+- slclust=02022010
+- trimal=1.5.0
+- ucsc-blat=472
+- ucsc-pslcdnafilter=472

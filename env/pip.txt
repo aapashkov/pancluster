@@ -1,0 +1,3 @@
+ftpretty==0.4.0
+funannotate==1.8.17
+goatools==1.4.12
