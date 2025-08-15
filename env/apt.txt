@@ -99,4 +99,5 @@ trim-galore
 trimmomatic
 trinityrnaseq
 trnascan-se
+ttf-mscorefonts-installer
 yaggo
