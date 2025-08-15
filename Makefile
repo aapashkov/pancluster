@@ -1,11 +1,10 @@
-JOBS := $(shell nproc)
 SHELL := bash
 .ONESHELL:
 .SHELLFLAGS := -euo pipefail -c
 .DELETE_ON_ERROR:
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
-MAKEFLAGS += -j $(JOBS)
+MAKEFLAGS += -j$(shell nproc)
 
 ifeq ($(origin .RECIPEPREFIX), undefined)
   $(error This Make does not support .RECIPEPREFIX. Please use GNU Make 4.0 or later)
@@ -17,12 +16,29 @@ log = date '+[%F %T]: $(1)' >&2
 
 # Variables
 markers = its tub
+reads = SRR32310738 SRR32193854 SRR32310737 SRR32193853
+col = :
 
-all: $(markers:%=results/markers/%.svg)
+all: $(markers:%=results/markers/%.svg) \
+  $(reads:%=data/reads/raw/%_1.fastq.gz)
 > @$(call log,All finished)
 
+run:
+> @docker run --rm -itv .$(col)/ext -u $(shell id -u)$(col)$(shell id -g) \
+  --env-file .env --name pancluster aapashkov/pancluster
+
+root:
+> @docker run --rm -itv .$(col)/ext --name pancluster aapashkov/pancluster
+
 results/markers/%.svg:
-> @mkdir -p results/markers && \
+> @$(call log,Building phylogenetic tree for $*) && \
+  mkdir -p results/markers && \
   python3 scripts/phylogenetic_tree.py data/markers/$*.fasta > $@ \
     2> logs/$*.log && \
   $(call log,Finished building phylogenetic tree for $*)
+
+data/reads/raw/%_1.fastq.gz:
+> @$(call log,Downloading $*) && \
+  mkdir -p data/reads/raw && \
+  python3 scripts/download_reads.py $* data/reads/raw 2> /dev/null && \
+  $(call log,Finished downloading $*)
