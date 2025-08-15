@@ -44,6 +44,7 @@ mafft
 make
 minimap2
 muscle3
+nanostat
 ncbi-blast+
 ncbi-tools-bin
 pigz
@@ -89,6 +90,7 @@ salmon
 samtools
 seqtk
 snap
+spades
 sra-toolkit
 stringtie
 tantan
