@@ -14,3 +14,15 @@ endif
 
 # Function that logs a message with current datetime
 log = date '+[%F %T]: $(1)' >&2
+
+# Variables
+markers = its tub
+
+all: $(markers:%=results/markers/%.svg)
+> @$(call log,All finished)
+
+results/markers/%.svg:
+> @mkdir -p results/markers && \
+  python3 scripts/phylogenetic_tree.py data/markers/$*.fasta > $@ \
+    2> logs/$*.log && \
+  $(call log,Finished building phylogenetic tree for $*)

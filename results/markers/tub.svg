@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="648.851782pt"
+   height="480.096pt"
+   viewBox="0 0 648.851782 480.096"
+   version="1.1"
+   id="svg368"
+   sodipodi:docname="tub.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview370"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.3528544"
+     inkscape:cx="376.9807"
+     inkscape:cy="254.27718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="315"
+     inkscape:window-y="1440"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text_2" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2025-08-15T03:34:24.689688</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.10.1, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="patch_1">
+      <path
+         d="M 0 480.096  L 648.851782 480.096  L 648.851782 0  L 0 0  L 0 480.096  z "
+         style="fill: none"
+         id="path8" />
+    </g>
+    <g
+       id="axes_1">
+      <g
+         id="patch_2">
+        <path
+           d="M 11.909407 472.896  L 346.709407 472.896  L 346.709407 7.2  L 11.909407 7.2  L 11.909407 472.896  z "
+           style="fill: none"
+           id="path11" />
+      </g>
+      <g
+         id="matplotlib.axis_1">
+        <g
+           id="xtick_1" />
+        <g
+           id="xtick_2" />
+        <g
+           id="xtick_3" />
+        <g
+           id="xtick_4" />
+        <g
+           id="xtick_5" />
+      </g>
+      <g
+         id="matplotlib.axis_2">
+        <g
+           id="ytick_1" />
+        <g
+           id="ytick_2" />
+        <g
+           id="ytick_3" />
+        <g
+           id="ytick_4" />
+        <g
+           id="ytick_5" />
+        <g
+           id="ytick_6" />
+        <g
+           id="ytick_7" />
+        <g
+           id="ytick_8" />
+        <g
+           id="ytick_9" />
+      </g>
+      <g
+         id="line2d_1"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 11.909407,186.93506 V 28.368"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path30" />
+      </g>
+      <g
+         id="line2d_2"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 11.909407,28.368 H 196.16247"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path33" />
+      </g>
+      <g
+         id="line2d_3"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 11.909407,186.93506 V 175.8825"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path36" />
+      </g>
+      <g
+         id="line2d_4"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 11.909407,175.8825 h 5.851186"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path39" />
+      </g>
+      <g
+         id="line2d_5"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 11.909407,186.93506 V 356.55469"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path42" />
+      </g>
+      <g
+         id="line2d_6"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 11.909407,356.55469 H 24.023192"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path45" />
+      </g>
+      <g
+         id="line2d_7"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 17.760593,175.8825 V 130.239"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path48" />
+      </g>
+      <g
+         id="line2d_8"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 17.760593,130.239 H 31.327527"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path51" />
+      </g>
+      <g
+         id="line2d_9"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 17.760593,175.8825 V 221.526"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path54" />
+      </g>
+      <g
+         id="line2d_10"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 17.760593,221.526 H 49.104667"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path57" />
+      </g>
+      <g
+         id="line2d_11"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 31.327527,130.239 V 94.518"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path60" />
+      </g>
+      <g
+         id="line2d_12"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 31.327527,94.518 H 45.37501"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path63" />
+      </g>
+      <g
+         id="line2d_13"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 31.327527,130.239 V 165.96"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path66" />
+      </g>
+      <g
+         id="line2d_14"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 31.327527,165.96 H 244.59244"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path69" />
+      </g>
+      <g
+         id="line2d_15"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 45.37501,94.518 V 65.412"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path72" />
+      </g>
+      <g
+         id="line2d_16"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 45.37501,65.412 H 55.685393"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path75" />
+      </g>
+      <g
+         id="line2d_17"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 45.37501,94.518 v 29.106"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path78" />
+      </g>
+      <g
+         id="line2d_18"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 45.37501,123.624 h 9.236047"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path81" />
+      </g>
+      <g
+         id="line2d_19"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 55.685393,65.412 V 49.536"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path84" />
+      </g>
+      <g
+         id="line2d_20"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 55.685393,49.536 h 8.235888"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path87" />
+      </g>
+      <g
+         id="line2d_21"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 55.685393,65.412 V 81.288"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path90" />
+      </g>
+      <g
+         id="line2d_22"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 55.685393,81.288 h 7.01e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path93" />
+      </g>
+      <g
+         id="line2d_23"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 55.686094,81.288 V 70.704"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path96" />
+      </g>
+      <g
+         id="line2d_24"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 55.686094,70.704 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path99" />
+      </g>
+      <g
+         id="line2d_25"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 55.686094,81.288 V 91.872"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path102" />
+      </g>
+      <g
+         id="line2d_26"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 55.686094,91.872 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path105" />
+      </g>
+      <g
+         id="line2d_27"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 54.611057,123.624 V 113.04"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path108" />
+      </g>
+      <g
+         id="line2d_28"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 54.611057,113.04 H 74.759743"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path111" />
+      </g>
+      <g
+         id="line2d_29"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 54.611057,123.624 v 10.584"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path114" />
+      </g>
+      <g
+         id="line2d_30"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 54.611057,134.208 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path117" />
+      </g>
+      <g
+         id="line2d_31"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 244.59244,165.96 V 155.376"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path120" />
+      </g>
+      <g
+         id="line2d_32"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 244.59244,155.376 H 346.70941"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path123" />
+      </g>
+      <g
+         id="line2d_33"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 244.59244,165.96 v 10.584"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path126" />
+      </g>
+      <g
+         id="line2d_34"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 244.59244,176.544 H 297.6168"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path129" />
+      </g>
+      <g
+         id="line2d_35"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 49.104667,221.526 V 197.712"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path132" />
+      </g>
+      <g
+         id="line2d_36"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 49.104667,197.712 H 78.097126"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path135" />
+      </g>
+      <g
+         id="line2d_37"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 49.104667,221.526 V 245.34"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path138" />
+      </g>
+      <g
+         id="line2d_38"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.104667,245.34 h 7.01e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path141" />
+      </g>
+      <g
+         id="line2d_39"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 49.105368,245.34 V 229.464"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path144" />
+      </g>
+      <g
+         id="line2d_40"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.105368,229.464 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path147" />
+      </g>
+      <g
+         id="line2d_41"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.105368,245.34 v 15.876"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path150" />
+      </g>
+      <g
+         id="line2d_42"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.105368,261.216 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path153" />
+      </g>
+      <g
+         id="line2d_43"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 49.10607,229.464 V 218.88"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path156" />
+      </g>
+      <g
+         id="line2d_44"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.10607,218.88 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path159" />
+      </g>
+      <g
+         id="line2d_45"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.10607,229.464 v 10.584"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path162" />
+      </g>
+      <g
+         id="line2d_46"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 49.10607,240.048 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path165" />
+      </g>
+      <g
+         id="line2d_47"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.023192,356.55469 V 282.384"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path168" />
+      </g>
+      <g
+         id="line2d_48"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.023192,282.384 h 2.73847"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path171" />
+      </g>
+      <g
+         id="line2d_49"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.023192,356.55469 v 74.17068"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path174" />
+      </g>
+      <g
+         id="line2d_50"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.023192,430.72537 h 7.02e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path177" />
+      </g>
+      <g
+         id="line2d_51"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.023894,430.72537 V 409.72275"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path180" />
+      </g>
+      <g
+         id="line2d_52"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.023894,409.72275 h 7.01e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path183" />
+      </g>
+      <g
+         id="line2d_53"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.023894,430.72537 V 451.728"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path186" />
+      </g>
+      <g
+         id="line2d_54"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.023894,451.728 h 7.01e-4"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path189" />
+      </g>
+      <g
+         id="line2d_55"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,409.72275 V 388.8855"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path192" />
+      </g>
+      <g
+         id="line2d_56"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,388.8855 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path195" />
+      </g>
+      <g
+         id="line2d_57"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,409.72275 V 430.56"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path198" />
+      </g>
+      <g
+         id="line2d_58"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,430.56 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path201" />
+      </g>
+      <g
+         id="line2d_59"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,388.8855 V 368.379"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path204" />
+      </g>
+      <g
+         id="line2d_60"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,368.379 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path207" />
+      </g>
+      <g
+         id="line2d_61"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,388.8855 V 409.392"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path210" />
+      </g>
+      <g
+         id="line2d_62"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,409.392 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path213" />
+      </g>
+      <g
+         id="line2d_63"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,368.379 V 348.534"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path216" />
+      </g>
+      <g
+         id="line2d_64"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,348.534 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path219" />
+      </g>
+      <g
+         id="line2d_65"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,368.379 v 19.845"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path222" />
+      </g>
+      <g
+         id="line2d_66"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,388.224 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path225" />
+      </g>
+      <g
+         id="line2d_67"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,348.534 V 330.012"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path228" />
+      </g>
+      <g
+         id="line2d_68"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,330.012 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path231" />
+      </g>
+      <g
+         id="line2d_69"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,348.534 v 18.522"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path234" />
+      </g>
+      <g
+         id="line2d_70"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,367.056 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path237" />
+      </g>
+      <g
+         id="line2d_71"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,330.012 V 314.136"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path240" />
+      </g>
+      <g
+         id="line2d_72"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,314.136 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path243" />
+      </g>
+      <g
+         id="line2d_73"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,330.012 v 15.876"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path246" />
+      </g>
+      <g
+         id="line2d_74"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,345.888 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path249" />
+      </g>
+      <g
+         id="line2d_75"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,314.136 V 303.552"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path252" />
+      </g>
+      <g
+         id="line2d_76"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,303.552 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path255" />
+      </g>
+      <g
+         id="line2d_77"
+         transform="translate(0,-7.5)">
+        <path
+           d="M 24.024595,314.136 V 324.72"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path258" />
+      </g>
+      <g
+         id="line2d_78"
+         transform="translate(0,-7.5)">
+        <path
+           d="m 24.024595,324.72 v 0"
+           style="fill:none;stroke:#000000;stroke-linecap:square"
+           id="path261" />
+      </g>
+      <g
+         id="text_1"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="199.51047"
+           y="32.927063"
+           id="text264">AY681212.1 <tspan
+   style="font-style:italic"
+   id="tspan1290">Neurospora tetraspora</tspan> strain CBS 178.33</text>
+      </g>
+      <g
+         id="text_2"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="67.269279"
+           y="54.095062"
+           id="text267"><tspan
+             style="font-weight:bold"
+             id="tspan1320">IraGTOF6</tspan></text>
+      </g>
+      <g
+         id="text_3"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="59.034798"
+           y="75.263062"
+           id="text270">JAAVUD010000118.1_63362-64685 <tspan
+   style="font-style:italic"
+   id="tspan1292">Fusarium chlamydosporum</tspan> NRRL 13444</text>
+      </g>
+      <g
+         id="text_4"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="59.034798"
+           y="96.431061"
+           id="text273">U61565.1 <tspan
+   style="font-style:italic"
+   id="tspan1294">Fusarium sp.</tspan> NRRL25483</text>
+      </g>
+      <g
+         id="text_5"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="78.107742"
+           y="117.59906"
+           id="text276">IraGTOF17</text>
+      </g>
+      <g
+         id="text_6"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="57.959759"
+           y="138.76706"
+           id="text279">KU938967.1 <tspan
+   style="font-style:italic"
+   id="tspan1296">Fusarium equiseti</tspan> strain LNHD2</text>
+      </g>
+      <g
+         id="text_7"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="350.0574"
+           y="159.93506"
+           id="text282">ON373976.1 <tspan
+   style="font-style:italic"
+   id="tspan1298">Fusarium cf. incarnatum</tspan> strain GC3</text>
+      </g>
+      <g
+         id="text_8"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="300.96478"
+           y="181.10306"
+           id="text285">IraGTOF13</text>
+      </g>
+      <g
+         id="text_9"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="81.445129"
+           y="202.27106"
+           id="text288">IraGTOF9</text>
+      </g>
+      <g
+         id="text_10"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="52.454071"
+           y="223.43906"
+           id="text291">KM232062.1 <tspan
+   style="font-style:italic"
+   id="tspan1300">[Neocosmospora] rubicola</tspan> strain CBS 101018</text>
+      </g>
+      <g
+         id="text_11"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="52.454071"
+           y="244.60706"
+           id="text294">KJ544186.1 <tspan
+   style="font-style:italic"
+   id="tspan1302">Fusarium solani</tspan> isolate Q205</text>
+      </g>
+      <g
+         id="text_12"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="52.454071"
+           y="265.77505"
+           id="text297">MK900720.3 <tspan
+   style="font-style:italic"
+   id="tspan1304">Fusarium solani</tspan> isolate SF0301</text>
+      </g>
+      <g
+         id="text_13"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="30.109661"
+           y="286.94305"
+           id="text300">IraGTOF19</text>
+      </g>
+      <g
+         id="text_14"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="308.11105"
+           id="text303"><tspan
+             style="font-weight:bold"
+             id="tspan1318">IraGTOF11</tspan></text>
+      </g>
+      <g
+         id="text_15"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="329.27905"
+           id="text306">OL437381.1 <tspan
+   style="font-style:italic"
+   id="tspan1306">Fusarium odoratissimum</tspan> strain TD535</text>
+      </g>
+      <g
+         id="text_16"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="350.44705"
+           id="text309">OL437368.1 <tspan
+   style="font-style:italic"
+   id="tspan1308">Fusarium cugenangense</tspan> strain LH1456</text>
+      </g>
+      <g
+         id="text_17"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="371.61505"
+           id="text312">KT323810.1 <tspan
+   style="font-style:italic"
+   id="tspan1310">Fusarium oxysporum f. sp. vasinfectum</tspan> strain NRRL 31665</text>
+      </g>
+      <g
+         id="text_18"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="392.78305"
+           id="text315">PV090989.1 <tspan
+   style="font-style:italic"
+   id="tspan1312">Fusarium oxysporum</tspan> isolate GYG2-2</text>
+      </g>
+      <g
+         id="text_19"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="413.95105"
+           id="text318">MH485062.1 <tspan
+   style="font-style:italic"
+   id="tspan1314">Fusarium languescens</tspan> strain CBS 645.78</text>
+      </g>
+      <g
+         id="text_20"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="435.11905"
+           id="text321">MT864717.1 <tspan
+   style="font-style:italic"
+   id="tspan1316">Fusarium nirenbergiae</tspan> isolate WY5</text>
+      </g>
+      <g
+         id="text_21"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="27.372595"
+           y="456.28705"
+           id="text324">IraGTOF18</text>
+      </g>
+      <g
+         id="text_22"
+         transform="translate(12,-16.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="14.835"
+           y="187.11743"
+           id="text327">36</text>
+      </g>
+      <g
+         id="text_23"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="24.54406"
+           y="141.47392"
+           id="text330">50</text>
+      </g>
+      <g
+         id="text_24"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="38.351269"
+           y="105.75292"
+           id="text333">76</text>
+      </g>
+      <g
+         id="text_25"
+         transform="translate(-4.5,-22.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="50.530201"
+           y="76.646927"
+           id="text336">91</text>
+      </g>
+      <g
+         id="text_27"
+         transform="translate(-4.5,-9)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="49.993034"
+           y="134.85893"
+           id="text342">87</text>
+      </g>
+      <g
+         id="text_28"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="137.95998"
+           y="177.19493"
+           id="text345">100</text>
+      </g>
+      <g
+         id="text_29"
+         transform="translate(0,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="33.432629"
+           y="232.76093"
+           id="text348">94</text>
+      </g>
+      <g
+         id="text_31"
+         transform="translate(-3,-7.5)">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:middle"
+           x="17.966299"
+           y="367.78961"
+           id="text354">76</text>
+      </g>
+      <g
+         id="patch_3">
+        <path
+           d="m 14.309407,456.88225 h 70.151034 v 0 z"
+           style="fill:none;stroke:#000000;stroke-linejoin:miter"
+           id="path360" />
+      </g>
+      <g
+         id="text_33">
+        <text
+           style="font-size:12px;font-family:Georgia;text-anchor:start"
+           x="39.843049"
+           y="468.000375"
+           transform="rotate(-0 39.843049 468.000375)"
+           id="text363">0.1</text>
+      </g>
+    </g>
+  </g>
+</svg>
