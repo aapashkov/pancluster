@@ -5,6 +5,7 @@ channels:
 dependencies:
 - codingquarry=2.0
 - evidencemodeler=2.1.0
+- gblocks=0.91b
 - glimmerhmm=3.0.4
 - mysql-connector-c=6.1.11
 - ncbi-datasets-cli=17.0.0

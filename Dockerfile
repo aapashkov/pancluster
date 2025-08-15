@@ -53,6 +53,8 @@ RUN apt update && \
     ln -s ../envs/masurca/bin/masurca /usr/bin/masurca && \
     ln -s snap-hmm /usr/bin/snap && \
     ln -s ../share/java/trimmomatic /usr/bin/trimmomatic && \
-    chmod a+x /usr/bin/ete3 /usr/share/java/trimmomatic
+    chmod a+x /usr/bin/ete3 /usr/share/java/trimmomatic && \
+    mkdir /home/user && \
+    chmod 777 /home/user
 
 WORKDIR /ext

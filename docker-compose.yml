@@ -1,6 +1,11 @@
 services:
   pipeline:
     image: aapashkov/pancluster
+    user: "${UID}:${GID}"
+    environment:
+      - UID=${UID}
+      - GID=${GID}
+      - HOME=/home/user
     working_dir: /ext
     volumes:
       - ./:/ext
