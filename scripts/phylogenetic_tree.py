@@ -97,7 +97,7 @@ def main() -> int:
         clade.name = names[clade.name]
 
     # Create tree visualization
-    tv = phytreeviz.TreeViz(tree, height=0.4, width=6)
+    tv = phytreeviz.TreeViz(tree, height=0.3, width=6)
     tv.show_confidence(size=12, ymargin_ratio=0.1)
     tv.show_scale_bar(text_size=12)
     fig = tv.plotfig()
@@ -106,6 +106,6 @@ def main() -> int:
     return 0
 
 
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+if __name__ == "__main__":
+    sys.argv[0] = re.sub(r"(-script\.pyw|\.exe)?$", "", sys.argv[0])
     sys.exit(main())
