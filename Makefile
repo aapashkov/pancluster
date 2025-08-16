@@ -24,12 +24,16 @@ all: $(markers:%=results/markers/%.svg) \
   $(reads:%=data/reads/trimmed/%_1.fastq.gz)
 > @$(call log,All finished)
 
+# Docker management rules
 run:
 > @docker run --rm -itv .$(col)/ext -u $(shell id -u)$(col)$(shell id -g) \
   --env-file .env --name pancluster aapashkov/pancluster
 
 root:
 > @docker run --rm -itv .$(col)/ext --name pancluster aapashkov/pancluster
+
+build:
+> @docker build -t aapashkov/pancluster .
 
 # Phylogenetic tree reconstruction
 results/markers/%.svg:
