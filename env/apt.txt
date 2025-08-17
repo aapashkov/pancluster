@@ -8,6 +8,7 @@ exonerate
 fasta3
 fastp
 file
+git
 gmap
 hisat2
 hmmer
