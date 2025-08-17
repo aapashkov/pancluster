@@ -2,3 +2,4 @@ ftpretty==0.4.0
 funannotate==1.8.17
 goatools==1.4.12
 phytreeviz==0.2.0
+git+https://github.com/dfguan/runner@73a4d1136bee4477713c11606d16afebc8d0f805
