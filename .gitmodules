@@ -1,6 +1,3 @@
-[submodule "modules/purge_dups"]
-	path = modules/purge_dups
-	url = https://github.com/dfguan/purge_dups
 [submodule "modules/fasconcat"]
 	path = modules/fasconcat
 	url = https://github.com/PatrickKueck/FASconCAT
