@@ -3,15 +3,14 @@ ARG DEBIAN_FRONTEND=noninteractive
 # Install dependencies that can only be installed through micromamba while
 # ignoring subdependencies as those will be satisfied in the second stage.
 FROM mambaorg/micromamba:2.0.8-ubuntu24.04 AS micromamba
+USER root
 
-COPY env/*.yml /tmp
+COPY env/*.yml /tmp/
 
 RUN micromamba install --name base --yes --no-deps --file /tmp/base.yml && \
-    micromamba create --yes --no-deps --file /tmp/masurca.yml && \
+    micromamba create --prefix /opt/masurca --yes --no-deps --file /tmp/masurca.yml && \
     micromamba clean --all --yes && \
-    rm -rf /opt/conda/pkgs \
-        /opt/conda/conda-meta \
-        /opt/conda/envs/masurca/conda-meta
+    rm -rf /opt/conda/pkgs /opt/conda/conda-meta
 
 # Copy dependencies from the micromamba stage and download the rest of them with
 # apt and pip. Minor fixes are introduced to solve dependency issues.
@@ -26,7 +25,8 @@ ENV PASAHOME=/usr/opt/pasa-2.5.3 \
     QUARRY_PATH=/usr/opt/codingquarry-2.0/QuarryFiles
 
 COPY --from=micromamba /opt/conda /usr
-COPY env/*.txt /tmp
+COPY --from=micromamba /opt/masurca /opt/masurca
+COPY env/*.txt /tmp/
 
 # Copy executables not provided by apt
 COPY env/cmd/ete3 /usr/bin/ete3
@@ -50,7 +50,9 @@ RUN apt update && \
         /usr/local/lib/python3.12/dist-packages/funannotate/check.py && \
     # Symlink executables so other programs can find them
     ln -sf fasta36 /usr/bin/fasta && \
-    ln -s ../envs/masurca/bin/masurca /usr/bin/masurca && \
+    ln -s /opt/masurca/bin/masurca /usr/bin/masurca && \
+    ln -s /opt/masurca/bin/samba.sh /usr/bin/samba.sh && \
+    ln -s /usr /opt/conda && \
     ln -s snap-hmm /usr/bin/snap && \
     ln -s ../share/java/trimmomatic /usr/bin/trimmomatic && \
     chmod a+x /usr/bin/ete3 /usr/share/java/trimmomatic && \

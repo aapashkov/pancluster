@@ -4,4 +4,3 @@ channels:
 - conda-forge
 dependencies:
 - masurca=4.1.0
-- perl=5.32.1
