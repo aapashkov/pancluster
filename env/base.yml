@@ -11,6 +11,7 @@ dependencies:
 - ncbi-datasets-cli=17.0.0
 - pasa=2.5.3
 - pblat=2.5.1
+- purge_dups=1.2.6
 - slclust=02022010
 - trimal=1.5.0
 - ucsc-blat=472
