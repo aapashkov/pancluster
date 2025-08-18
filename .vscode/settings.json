@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/.tmp*": true,
+        "**/data": true,
+        "**/logs": true
+    }
+}
