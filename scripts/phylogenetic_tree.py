@@ -54,15 +54,17 @@ def main() -> int:
         return 1
 
     file = Path(sys.argv[1])
-    tmp = Path(tempfile.mkdtemp())
+
+    # Setup tmp directory
+    tmp = Path(tempfile.mkdtemp(prefix=".tmp", dir="."))
     atexit.register(shutil.rmtree, tmp)
 
     # Get outgroup from first record in FASTA
-    with open(file) as handle:
+    with open(file, encoding="utf8") as handle:
         outgroup = next(SeqIO.parse(handle, "fasta")).id
 
     # Get a mapping of identifiers to full names
-    with open(file) as handle:
+    with open(file, encoding="utf8") as handle:
         names = {
             rec.id: rec.description for rec in SeqIO.parse(handle, "fasta")
         }
@@ -75,7 +77,11 @@ def main() -> int:
     )
 
     # Perform alignment trimming, ignore check as exit code of 1 is common
-    subprocess.run([gblocks, tmp/"aln.fa", "-t", "d"], stdout=sys.stderr)
+    subprocess.run(
+        [gblocks, tmp/"aln.fa", "-t", "d"],
+        check=False,
+        stdout=sys.stderr
+    )
 
     # Build tree
     subprocess.run(

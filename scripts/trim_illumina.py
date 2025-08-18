@@ -50,7 +50,9 @@ def main() -> int:
         Path, sys.argv[1:3] if len(sys.argv) == 4 else sys.argv[1:2]
     ))
     out = Path(sys.argv[-1])
-    tmp = Path(tempfile.mkdtemp())
+
+    # Setup tmp directory
+    tmp = Path(tempfile.mkdtemp(prefix=".tmp", dir="."))
     atexit.register(shutil.rmtree, tmp)
 
     # Run Illumina trimming

@@ -34,7 +34,9 @@ def main() -> int:
 
     accession = sys.argv[1]
     out = Path(sys.argv[2] if len(sys.argv) == 3 else ".")
-    tmp = Path(tempfile.mkdtemp())
+
+    # Setup tmp directory
+    tmp = Path(tempfile.mkdtemp(prefix=".tmp", dir="."))
     atexit.register(shutil.rmtree, tmp)
 
     # Retrieve list of read files of accession
@@ -46,7 +48,9 @@ def main() -> int:
 
     # Download files into temporary directory
     for ftp in ftps:
+        print(f"Downloading {Path(ftp).name}", file=sys.stderr)
         urlretrieve(ftp, tmp/Path(ftp).name, progress)
+        print("100.00%", file=sys.stderr)
 
     # Move files to output directory
     for ftp in ftps:

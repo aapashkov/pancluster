@@ -47,7 +47,9 @@ def main() -> int:
         return 1
 
     file = Path(sys.argv[1])
-    tmp = Path(tempfile.mkdtemp())
+
+    # Setup tmp directory
+    tmp = Path(tempfile.mkdtemp(prefix=".tmp", dir="."))
     atexit.register(shutil.rmtree, tmp)
 
     # Remove ONT adapters
