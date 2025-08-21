@@ -8,7 +8,7 @@ USER root
 COPY env/*.yml /tmp/
 
 RUN micromamba install --name base --yes --no-deps --file /tmp/base.yml && \
-    micromamba create --prefix /opt/masurca --yes --no-deps --file /tmp/masurca.yml && \
+    micromamba create --prefix /opt/masurca --yes --file /tmp/masurca.yml && \
     micromamba clean --all --yes && \
     rm -rf /opt/conda/pkgs /opt/conda/conda-meta
 
@@ -50,8 +50,6 @@ RUN apt update && \
         /usr/local/lib/python3.12/dist-packages/funannotate/check.py && \
     # Symlink executables so other programs can find them
     ln -sf fasta36 /usr/bin/fasta && \
-    ln -s /opt/masurca/bin/masurca /usr/bin/masurca && \
-    ln -s /opt/masurca/bin/samba.sh /usr/bin/samba.sh && \
     ln -s /usr /opt/conda && \
     ln -s snap-hmm /usr/bin/snap && \
     ln -s ../share/java/trimmomatic /usr/bin/trimmomatic && \

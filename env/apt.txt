@@ -102,3 +102,10 @@ trinityrnaseq
 trnascan-se
 ttf-mscorefonts-installer
 yaggo
+python3-bitarray
+python3-bitstring
+python3-cachetools
+python3-cffi
+python3-deprecation
+python3-pycparser
+python3-screed
