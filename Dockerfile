@@ -1,60 +1,38 @@
+FROM ubuntu:20.04
+
+# Build arguments
 ARG DEBIAN_FRONTEND=noninteractive
+ARG ARCH=64
+ARG MICROMAMBA=2.3.1
 
-# Install dependencies that can only be installed through micromamba while
-# ignoring subdependencies as those will be satisfied in the second stage.
-FROM mambaorg/micromamba:2.0.8-ubuntu24.04 AS micromamba
-USER root
+# Environment definition files
+COPY env/apt.txt /tmp/apt.txt
+COPY env/pip.txt /tmp/pip.txt
+COPY env/base.yml /tmp/base.yml
 
-COPY env/*.yml /tmp/
+# Setup apt dependencies
+RUN apt-get update && \
+    xargs -a /tmp/apt.txt apt-get install --no-install-recommends --yes && \
+    apt-get clean && \
+    rm -rf /tmp/apt.txt /var/lib/apt /var/lib/dpkg /var/lib/cache /var/lib/log
 
-RUN micromamba install --name base --yes --no-deps --file /tmp/base.yml && \
-    micromamba create --prefix /opt/masurca --yes --file /tmp/masurca.yml && \
+# Setup conda dependencies
+RUN wget -qO- "https://micro.mamba.pm/api/micromamba/linux-${ARCH}/${MICROMAMBA}" | tar -xjC "/" "bin/micromamba" && \
+    mv /usr/local /tmp/local && \
+    micromamba create --yes --prefix /usr/local --no-deps --file /tmp/base.yml && \
     micromamba clean --all --yes && \
-    rm -rf /opt/conda/pkgs /opt/conda/conda-meta
+    cp -r /tmp/local /usr && \
+    rm -rf /tmp/base.yml /tmp/local
 
-# Copy dependencies from the micromamba stage and download the rest of them with
-# apt and pip. Minor fixes are introduced to solve dependency issues.
-FROM ubuntu:noble
+# Setup pip dependencies
+RUN pip install --no-cache-dir --no-deps --requirement /tmp/pip.txt && \
+    rm /tmp/pip.txt
 
-# Environment variables needed by Funannotate
-ENV PASAHOME=/usr/opt/pasa-2.5.3 \
-    TRINITYHOME=/usr/lib/trinityrnaseq \
-    EVM_HOME=/usr/opt/evidencemodeler-2.1.0 \
-    AUGUSTUS_CONFIG_PATH=/usr/share/augustus/config \
-    FUNANNOTATE_DB=/ext/data/databases/funannotateDB \
-    QUARRY_PATH=/usr/opt/codingquarry-2.0/QuarryFiles
+# Copy missing CLI tools
+COPY env/cmd/calcmem.sh /usr/share/bbmap/calcmem.sh
 
-COPY --from=micromamba /opt/conda /usr
-COPY --from=micromamba /opt/masurca /opt/masurca
-COPY env/*.txt /tmp/
-
-# Copy executables not provided by apt
-COPY env/cmd/ete3 /usr/bin/ete3
-COPY env/cmd/trimmomatic /usr/share/java/trimmomatic
-
-RUN apt update && \
-    xargs -a /tmp/apt.txt apt install --no-install-recommends --yes && \
-    # Python and dependency requirements will be guaranteed
-    pip install --break-system-packages \
-        --no-cache-dir \
-        --ignore-requires-python \
-        --no-deps \
-        --requirement /tmp/pip.txt && \
-    apt clean && \
-    rm /tmp/*.txt && \
-    # Remove unused but problematic import in Funannotate library
-    sed -i '/module_for_loader$/ s/^/# /' \
-        /usr/local/lib/python3.12/dist-packages/funannotate/library.py && \
-    # Force use latin encoding when checking Funannotate dependencies
-    sed -i '/import fun/a\import functools as ft\nsubprocess.Popen = ft.partial(subprocess.Popen, encoding="latin-1")' \
-        /usr/local/lib/python3.12/dist-packages/funannotate/check.py && \
-    # Symlink executables so other programs can find them
-    ln -sf fasta36 /usr/bin/fasta && \
-    ln -s /usr /opt/conda && \
-    ln -s snap-hmm /usr/bin/snap && \
-    ln -s ../share/java/trimmomatic /usr/bin/trimmomatic && \
-    chmod a+x /usr/bin/ete3 /usr/share/java/trimmomatic && \
-    mkdir /home/user && \
-    chmod 777 /home/user
+# Create symlinks to some programs so other tools can find them
+RUN basename -a /usr/share/bbmap/*.sh | xargs -I {} ln -fs ../share/bbmap/{} /usr/bin/{} && \
+    basename -as .sh /usr/share/bbmap/*.sh | xargs -I {} ln -fs {}.sh /usr/share/bbmap/{}
 
 WORKDIR /ext
