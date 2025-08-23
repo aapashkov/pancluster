@@ -3,12 +3,12 @@
 
 """usage: genome_quality.py DB FNA FAA OUTDIR
 
-Runs a quality analysis of an input FNA genome and its associated FAA proteome.
-Uses a BUSCO database stored in DB and saves results to OUTDIR. Uses Fusarium
-graminearum as default species; change it by setting the SPECIES environment
-variable.
+Runs a quality analysis of an input eukaryotic FNA genome and its associated FAA
+proteome. Uses a BUSCO database stored in DB and saves results to OUTDIR. Uses
+Fusarium graminearum as default species; change it by setting the SPECIES
+environment variable.
 
-example: genome_quality.py hypocreales_odb10/ genome.fna proteins.faa results/"""
+example: genome_quality.py odb10/ genome.fna proteins.faa results/"""
 
 import atexit
 import os
@@ -43,7 +43,7 @@ def main() -> int:
     """Driver code."""
 
     buscolite = check_exec("buscolite")
-    stats = check_exec("stats.sh")
+    stats = check_exec("stats.sh", "bbstats.sh")
     species = os.environ.get("SPECIES", "fusarium")
 
     if len(sys.argv) != 5:
