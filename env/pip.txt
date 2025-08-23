@@ -1,4 +1,7 @@
 buscolite==25.4.24
+nanoget==1.13.2
+nanomath==1.4.0
+nanostat==1.6.0
 pyfastx==2.2.0
 pyfastx==2.2.0
 pyhmmer==0.11.1
