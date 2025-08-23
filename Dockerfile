@@ -33,6 +33,8 @@ COPY env/cmd/calcmem.sh /usr/share/bbmap/calcmem.sh
 
 # Create symlinks to some programs so other tools can find them
 RUN basename -a /usr/share/bbmap/*.sh | xargs -I {} ln -fs ../share/bbmap/{} /usr/bin/{} && \
-    basename -as .sh /usr/share/bbmap/*.sh | xargs -I {} ln -fs {}.sh /usr/share/bbmap/{}
+    basename -as .sh /usr/share/bbmap/*.sh | xargs -I {} ln -fs {}.sh /usr/share/bbmap/{} && \
+    # Create user's home directory
+    mkdir /home/user && chmod 777 /home/user
 
 WORKDIR /ext
