@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:focal-20250404
 
 # Build arguments
 ARG DEBIAN_FRONTEND=noninteractive
@@ -26,15 +26,18 @@ RUN wget -qO- "https://micro.mamba.pm/api/micromamba/linux-${ARCH}/${MICROMAMBA}
 
 # Setup pip dependencies
 RUN pip install --no-cache-dir --no-deps --requirement /tmp/pip.txt && \
-    rm /tmp/pip.txt
+    rm /tmp/pip.txt && \
+    chmod 777 /usr/local/lib/python3.8/dist-packages/bigscape/Annotated_MIBiG_reference/
 
 # Copy missing CLI tools
 COPY env/cmd/calcmem.sh /usr/share/bbmap/calcmem.sh
 
-# Create symlinks to some programs so other tools can find them
+# Copy library files with compatibility fixes
+COPY env/lib/pycirclize/ /usr/local/lib/python3.8/dist-packages/pycirclize/
+
+# Create symlinks and home dir to some programs so other tools can find them
 RUN basename -a /usr/share/bbmap/*.sh | xargs -I {} ln -fs ../share/bbmap/{} /usr/bin/{} && \
     basename -as .sh /usr/share/bbmap/*.sh | xargs -I {} ln -fs {}.sh /usr/share/bbmap/{} && \
-    # Create user's home directory
     mkdir /home/user && chmod 777 /home/user
 
 WORKDIR /ext

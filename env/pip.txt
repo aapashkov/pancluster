@@ -1,7 +1,10 @@
 buscolite==25.4.24
+dataclasses==0.6
 nanoget==1.13.2
 nanomath==1.4.0
 nanostat==1.6.0
+pycirclize==1.6.0
 pyfastx==2.2.0
 pyfastx==2.2.0
 pyhmmer==0.11.1
+https://github.com/medema-group/BiG-SCAPE/archive/refs/tags/v1.1.9.tar.gz
