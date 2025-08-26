@@ -78,10 +78,10 @@ def main() -> int:
 
     # Move out of tmp directory
     for output in (Path(file.stem)/"predict_results").glob("*"):
-        shutil.move(output, file.stem)
+        shutil.move(str(output), Path(file.stem)/output.stem)
     for directory in ["logfiles", "predict_misc", "predict_results"]:
         shutil.rmtree(Path(file.stem)/directory)
-    shutil.move(file.stem, outdir/file.stem)
+    shutil.move(file.stem, str(outdir/file.stem))
 
     return 0
 
