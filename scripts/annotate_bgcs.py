@@ -61,7 +61,7 @@ def main() -> int:
     # Run antiSMASH
     subprocess.run(
         [
-            antismash, "--cpus", "10", "--taxon", "fungi",
+            antismash, "--cpus", "1", "--taxon", "fungi",
             "--output-dir", file.stem, "--output-basename", file.stem,
             "--html-title", file.stem, "--databases", db,
             "--allow-long-headers", "--genefinding-tool", "none", file
