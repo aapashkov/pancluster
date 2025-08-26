@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="576"
+   height="672"
+   version="1.1"
+   viewBox="0 0 576 672"
+   id="svg2157"
+   sodipodi:docname="fchl.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2159"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2470238"
+     inkscape:cx="240.97375"
+     inkscape:cy="336"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2157" />
+  <defs
+     id="defs1835">
+    <clipPath
+       id="clipPath18">
+      <path
+         d="m135.1 194.23h274.37v195.98h-274.37z"
+         id="path1832" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3333 0 0 -1.3333 0 672)"
+     id="g2155">
+    <g
+       clip-path="url(#clipPath18)"
+       stroke="#fff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="2"
+       id="g1909">
+      <path
+         d="m135.1 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#f7fbff"
+         id="path1837" />
+      <path
+         d="m174.3 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#2373b6"
+         id="path1839" />
+      <path
+         d="m213.49 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#f7fbff"
+         id="path1841" />
+      <path
+         d="m252.69 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#2575b7"
+         id="path1843" />
+      <path
+         d="m291.88 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#2777b8"
+         id="path1845" />
+      <path
+         d="m331.08 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#f7fbff"
+         id="path1847" />
+      <path
+         d="m370.27 390.21h39.195v-39.195h-39.195v39.195"
+         fill="#2979b9"
+         id="path1849" />
+      <path
+         d="m135.1 351.01h39.195v-39.195h-39.195v39.195"
+         fill="#2373b6"
+         id="path1851" />
+      <path
+         d="m174.3 351.01h39.195v-39.195h-39.195v39.195"
+         fill="#2575b7"
+         id="path1853" />
+      <g
+         fill="#2373b6"
+         id="g1861">
+        <path
+           d="m213.49 351.01h39.195v-39.195h-39.195v39.195"
+           id="path1855" />
+        <path
+           d="m252.69 351.01h39.195v-39.195h-39.195v39.195"
+           id="path1857" />
+        <path
+           d="m291.88 351.01h39.195v-39.195h-39.195v39.195"
+           id="path1859" />
+      </g>
+      <path
+         d="m331.08 351.01h39.195v-39.195h-39.195v39.195"
+         fill="#f6faff"
+         id="path1863" />
+      <path
+         d="m370.27 351.01h39.195v-39.195h-39.195v39.195"
+         fill="#2373b6"
+         id="path1865" />
+      <path
+         d="m135.1 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#3f8fc5"
+         id="path1867" />
+      <path
+         d="m174.3 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#3383be"
+         id="path1869" />
+      <path
+         d="m213.49 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#6aaed6"
+         id="path1871" />
+      <path
+         d="m252.69 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#2979b9"
+         id="path1873" />
+      <path
+         d="m291.88 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#2979b9"
+         id="path1875" />
+      <path
+         d="m331.08 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#f6faff"
+         id="path1877" />
+      <path
+         d="m370.27 311.82h39.195v-39.195h-39.195v39.195"
+         fill="#2e7ebc"
+         id="path1879" />
+      <path
+         d="m135.1 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#539ecd"
+         id="path1881" />
+      <path
+         d="m174.3 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#4594c7"
+         id="path1883" />
+      <path
+         d="m213.49 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#cfe1f2"
+         id="path1885" />
+      <path
+         d="m252.69 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#3686c0"
+         id="path1887" />
+      <path
+         d="m291.88 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#3585bf"
+         id="path1889" />
+      <path
+         d="m331.08 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#f4f9fe"
+         id="path1891" />
+      <path
+         d="m370.27 272.62h39.195v-39.195h-39.195v39.195"
+         fill="#4a98c9"
+         id="path1893" />
+      <path
+         d="m135.1 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#8abfdd"
+         id="path1895" />
+      <path
+         d="m174.3 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#e4eff9"
+         id="path1897" />
+      <path
+         d="m213.49 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#f2f8fd"
+         id="path1899" />
+      <path
+         d="m252.69 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#e2edf8"
+         id="path1901" />
+      <path
+         d="m291.88 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#e2edf8"
+         id="path1903" />
+      <path
+         d="m331.08 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#2373b6"
+         id="path1905" />
+      <path
+         d="m370.27 233.43h39.195v-39.195h-39.195v39.195"
+         fill="#f7fbff"
+         id="path1907" />
+    </g>
+    <g
+       id="g2153">
+      <path
+         d="m154.7 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1911" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1917"
+         x="96.99778"
+         y="157.46001">Número de <tspan
+   style="font-style:italic"
+   id="tspan2290">scaffolds</tspan></text>
+      <path
+         d="m193.89 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1919" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1923"
+         x="95.342499"
+         y="196.64999"><tspan
+           id="tspan1921">Longitud total (Mpb)</tspan></text>
+      <path
+         d="m233.09 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1925" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1931"
+         x="84.326881"
+         y="235.85001"><tspan
+           id="tspan1929">N50 de <tspan
+   style="font-style:italic"
+   id="tspan2293">scaffolds</tspan> (Mpb)</tspan></text>
+      <path
+         d="m272.28 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1933" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1937"
+         x="85.044655"
+         y="275.04001"><tspan
+           id="tspan1935">BUSCOs completos (%)</tspan></text>
+      <path
+         d="m311.48 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1939" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1943"
+         x="67.173553"
+         y="314.44"><tspan
+           id="tspan1941">BUSCOs de copia única (%)</tspan></text>
+      <path
+         d="m350.68 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1945" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1949"
+         x="82.324928"
+         y="353.42999"><tspan
+           id="tspan1947">BUSCOs duplicados (%)</tspan></text>
+      <path
+         d="m389.87 194.23v-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1951" />
+      <text
+         transform="matrix(0,1,1,0,0,0)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1955"
+         x="91.895241"
+         y="392.63"><tspan
+           id="tspan1953">BUSCOs ausentes (%)</tspan></text>
+      <path
+         d="m135.1 370.61h-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1957" />
+      <text
+         transform="scale(1,-1)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1961"
+         x="81.900185"
+         y="-366.82001"><tspan
+           id="tspan1959">Referencia</tspan></text>
+      <path
+         d="m135.1 331.42h-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1963" />
+      <text
+         transform="scale(1,-1)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1969"
+         x="46.250771"
+         y="-327.62">MaSuRCA <tspan
+   style="font-style:italic"
+   id="tspan2278">de novo</tspan></text>
+      <path
+         d="m135.1 292.22h-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1971" />
+      <text
+         transform="scale(1,-1)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1977"
+         x="58.755653"
+         y="-288.42999">SPAdes <tspan
+   style="font-style:italic"
+   id="tspan2281">de novo</tspan></text>
+      <path
+         d="m135.1 253.03h-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1979" />
+      <text
+         transform="scale(1,-1)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1985"
+         x="58.067177"
+         y="-249.23">SPAdes <tspan
+   style="font-style:italic"
+   id="tspan2284">scaffold</tspan></text>
+      <path
+         d="m135.1 213.83h-3.5"
+         stroke="#000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width=".8"
+         id="path1987" />
+      <text
+         transform="scale(1,-1)"
+         fill="#000000"
+         font-family="Georgia"
+         font-size="10px"
+         xml:space="preserve"
+         id="text1993"
+         x="45.562294"
+         y="-210.03999">MaSuRCA <tspan
+   style="font-style:italic"
+   id="tspan2287">scaffold</tspan></text>
+      <g
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2019">
+        <text
+           transform="matrix(1 0 0 -1 145.16 367.85)"
+           fill="#262626"
+           xml:space="preserve"
+           id="text1997"><tspan
+             x="0 6.3600001 12.72"
+             y="0"
+             id="tspan1995">504</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 179.58 367.85)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2001"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan1999">37.92</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 225.14 367.85)"
+           fill="#262626"
+           xml:space="preserve"
+           id="text2005"><tspan
+             x="0 6.3600001 9.54"
+             y="0"
+             id="tspan2003">0.2</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 257.97 367.85)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2009"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2007">97.75</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 297.17 367.85)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2013"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2011">95.33</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 339.54 367.85)"
+           fill="#262626"
+           xml:space="preserve"
+           id="text2017"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2015">2.43</tspan></text>
+      </g>
+      <g
+         fill="#ffffff"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2045">
+        <text
+           transform="matrix(1 0 0 -1 378.74 367.85)"
+           xml:space="preserve"
+           id="text2023"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2021">2.25</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 148.34 328.66)"
+           xml:space="preserve"
+           id="text2027"><tspan
+             x="0 6.3600001"
+             y="0"
+             id="tspan2025">23</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 182.76 328.66)"
+           xml:space="preserve"
+           id="text2031"><tspan
+             x="0 6.3600001 12.72 15.9"
+             y="0"
+             id="tspan2029">37.8</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 221.96 328.66)"
+           xml:space="preserve"
+           id="text2035"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2033">3.34</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 257.97 328.66)"
+           xml:space="preserve"
+           id="text2039"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2037">98.15</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 297.17 328.66)"
+           xml:space="preserve"
+           id="text2043"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2041">95.99</tspan></text>
+      </g>
+      <text
+         transform="matrix(1 0 0 -1 339.54 328.66)"
+         fill="#262626"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         xml:space="preserve"
+         id="text2049"><tspan
+           x="0 6.3600001 9.54 15.9"
+           y="0"
+           id="tspan2047">2.16</tspan></text>
+      <g
+         fill="#ffffff"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2075">
+        <text
+           transform="matrix(1 0 0 -1 378.74 328.66)"
+           xml:space="preserve"
+           id="text2053"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2051">1.85</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 148.34 289.46)"
+           xml:space="preserve"
+           id="text2057"><tspan
+             x="0 6.3600001"
+             y="0"
+             id="tspan2055">47</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 179.58 289.46)"
+           xml:space="preserve"
+           id="text2061"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2059">36.87</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 221.96 289.46)"
+           xml:space="preserve"
+           id="text2065"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2063">2.93</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 257.97 289.46)"
+           xml:space="preserve"
+           id="text2069"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2067">97.29</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 297.17 289.46)"
+           xml:space="preserve"
+           id="text2073"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2071">95.15</tspan></text>
+      </g>
+      <text
+         transform="matrix(1 0 0 -1 339.54 289.46)"
+         fill="#262626"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         xml:space="preserve"
+         id="text2079"><tspan
+           x="0 6.3600001 9.54 15.9"
+           y="0"
+           id="tspan2077">2.14</tspan></text>
+      <g
+         fill="#ffffff"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2093">
+        <text
+           transform="matrix(1 0 0 -1 378.74 289.46)"
+           xml:space="preserve"
+           id="text2083"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2081">2.71</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 148.34 250.27)"
+           xml:space="preserve"
+           id="text2087"><tspan
+             x="0 6.3600001"
+             y="0"
+             id="tspan2085">63</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 179.58 250.27)"
+           xml:space="preserve"
+           id="text2091"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2089">35.67</tspan></text>
+      </g>
+      <g
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2115">
+        <text
+           transform="matrix(1 0 0 -1 221.96 250.27)"
+           fill="#262626"
+           xml:space="preserve"
+           id="text2097"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2095">2.17</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 257.97 250.27)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2101"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2099">94.99</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 297.17 250.27)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2105"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2103">92.99</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 347.5 250.27)"
+           fill="#262626"
+           xml:space="preserve"
+           id="text2109"><tspan
+             x="0"
+             y="0"
+             id="tspan2107">2</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 378.74 250.27)"
+           fill="#ffffff"
+           xml:space="preserve"
+           id="text2113"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2111">5.01</tspan></text>
+      </g>
+      <g
+         fill="#262626"
+         font-family="'DejaVu Sans'"
+         font-size="10px"
+         id="g2137">
+        <text
+           transform="matrix(1 0 0 -1 145.16 211.07)"
+           xml:space="preserve"
+           id="text2119"><tspan
+             x="0 6.3600001 12.72"
+             y="0"
+             id="tspan2117">105</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 179.58 211.07)"
+           xml:space="preserve"
+           id="text2123"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2121">19.29</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 225.14 211.07)"
+           xml:space="preserve"
+           id="text2127"><tspan
+             x="0 6.3600001 9.54"
+             y="0"
+             id="tspan2125">1.1</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 257.97 211.07)"
+           xml:space="preserve"
+           id="text2131"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2129">51.62</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 297.17 211.07)"
+           xml:space="preserve"
+           id="text2135"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2133">50.73</tspan></text>
+      </g>
+      <g
+         id="g2151">
+        <text
+           transform="matrix(1 0 0 -1 339.54 211.07)"
+           fill="#ffffff"
+           font-family="'DejaVu Sans'"
+           font-size="10px"
+           xml:space="preserve"
+           id="text2141"><tspan
+             x="0 6.3600001 9.54 15.9"
+             y="0"
+             id="tspan2139">0.89</tspan></text>
+        <text
+           transform="matrix(1 0 0 -1 375.56 211.07)"
+           fill="#262626"
+           font-family="'DejaVu Sans'"
+           font-size="10px"
+           xml:space="preserve"
+           id="text2145"><tspan
+             x="0 6.3600001 12.72 15.9 22.26"
+             y="0"
+             id="tspan2143">48.38</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,212.97,396.21)"
+           fill="#000000"
+           font-family="Georgia"
+           font-size="12px"
+           xml:space="preserve"
+           id="text2149"><tspan
+             font-style="italic"
+             id="tspan2147">F. chlamydosporum</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -6,10 +6,14 @@
 Create a heatmap comparing genome quality of several genomes and print it in SVG
 format to stdout. For each given PREFIX, this script reads PREFIX.bbstats.json
 and PREFIX.buscolite.json, both of which are produced by genome_quality.py.
+Specify LABELS environment variable as a comma separated list of labels for
+each prefix to use instead of the file stems. Set TITLE env variable for plot
+title
 
 example: genome_quality_heatmap.py prefix1 prefix2 prefix3 > heatmap.svg"""
 
 import json
+import os
 import re
 import sys
 import warnings
@@ -34,6 +38,12 @@ def main() -> int:
         return 1
 
     files = [Path(file).resolve() for file in sys.argv[1:]]
+    title = os.environ.get("TITLE", "")
+    label_var = os.environ.get("LABELS")
+    labels = (
+        label_var.split(",") if label_var is not None
+        else [file.name for file in files]
+    )
 
     # Populate data dictionary for heatmap
     data_dict = {}
@@ -85,6 +95,7 @@ def main() -> int:
 
     # Real data is used for annotations, but values are scaled 0-1 for colors
     real_data = pd.DataFrame(data_dict).T
+    real_data.index = labels
     data = real_data / real_data.max()
     real_data = real_data.apply(np.vectorize(
         lambda number: str(int(number)) if number.is_integer() else str(number)
@@ -99,15 +110,17 @@ def main() -> int:
     data[lower] = data.apply(
         lambda x: (x - x.max()) / (x.min() - x.max())
     )[lower].fillna(1)
+    data = data ** 3
 
     # Create plot
     fig, ax = plt.subplots(figsize=(6, len(files) + 2), constrained_layout=True)
     sns.heatmap(
         data, square=True, ax=ax, cbar=False, cmap="Blues",
-        annot=real_data, linewidths=1, vmin=-0.2, vmax=1.2, fmt=""
+        annot=real_data, linewidths=2, vmin=0.0, vmax=1.35, fmt=""
     )
+    ax.set_title(title)
     fig.tight_layout()
-    fig.savefig(sys.stdout, format="svg")
+    fig.savefig(sys.stdout, format="svg", transparent=True) # type: ignore
 
     return 0
 
