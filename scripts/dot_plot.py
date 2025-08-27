@@ -99,11 +99,14 @@ def main() -> int:
     qlength = paf[["qname", "qlen"]].drop_duplicates()["qlen"].sum()
     tlength = paf[["tname", "tlen"]].drop_duplicates()["tlen"].sum()
 
+    # Filter paf to quality >= 40
+    paf = paf[paf["mapq"] >= 40]
+
     # Create figure
     fig, ax = plt.subplots(figsize=(3, 3))
     colors = {
-        "-": (0.00392156862745098, 0.45098039215686275, 0.6980392156862745),
-        "+": (0.8352941176470589, 0.3686274509803922, 0.0)
+        "-": "steelblue",
+        "+": "indianred"
     }
 
     # Set color for strand, and transparency for mapping quality
@@ -116,8 +119,8 @@ def main() -> int:
 
     # Set ticks to contig edges
     ax.tick_params(width=0.25)
-    ax.set_xticks(tcontigs.values)
-    ax.set_yticks(qcontigs.values)
+    ax.set_xticks(tcontigs.values) # type: ignore
+    ax.set_yticks(qcontigs.values) # type: ignore
     ax.set_xticklabels(
         [""] * (len(ax.get_xticks()) - 1) + [f"{tlength / 1e6:.1f}Mb"],
         fontsize=4
@@ -137,7 +140,7 @@ def main() -> int:
     ax.grid(visible=True, lw=0.25, color="#EEEEEE")
     ax.set_aspect("equal")
     fig.tight_layout()
-    fig.savefig(sys.stdout, format="svg") # type: ignore
+    fig.savefig(sys.stdout, format="svg", transparent=True) # type: ignore
 
     return 0
 
