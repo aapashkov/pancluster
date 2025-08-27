@@ -4,81 +4,61 @@
 """usage: build_ani.py FASTA FASTA [FASTA ...]
 
 Create an ANI distance matrix from input FASTA files and print it to stdout in
-csv format. Set CPUS environment variable for parallelization.
+csv format. Set JOBS environment variable for parallelization.
 
-example: CPUS=10 build_ani.py *.fasta > ani_matrix.csv"""
+example: JOBS=10 build_ani.py *.fasta > ani_matrix.csv"""
 
-import functools
 import itertools
 import multiprocessing
 import os
 import re
-import shutil
-import subprocess
 import sys
 from pathlib import Path
+from typing import Tuple, List
 
+import screed
+import sourmash
 import pandas as pd
 
 
-def check_exec(*executables: str):
-    """Find and return an executable from input, showing error if none is
-    found."""
+def pairwise_ani(files: Tuple[Path, Path]) -> Tuple[str, str, float]:
+    """Compute ANI between a pair of genomes."""
 
-    choice = None
-    for executable in executables:
-        if shutil.which(executable) is not None:
-            choice = executable
-            break
-    if choice is None:
-        print(
-            f"error: could not find an executable for '{executables[0]}'",
-            file=sys.stderr
-        )
-        sys.exit(1)
-    else:
-        return choice
+    minhashes: List[sourmash.MinHash] = []
 
+    for file in files:
+        minhash = sourmash.MinHash(n=0, ksize=31, scaled=1000)
+        with screed.open(file) as handle:
+            for record in handle:
+                minhash.add_sequence(record["sequence"], force=True)
+        minhashes.append(minhash)
 
-def ani(pair: tuple[Path, Path], fastani: str = "fastANI") -> tuple[str, str, float]:
-    """Compute ANI from a pair of files."""
+    ani = minhashes[0].jaccard_ani(minhashes[1]).ani
+    if ani is None:
+        ani = 0.0
 
-    stem1, stem2 = [path.stem for path in pair]
-    cmd = [fastani, "-q", pair[0], "-r", pair[1], "-o", "/dev/stdout"]
-
-    return stem1, stem2, 100 - float(
-        subprocess.run(cmd, check=True, stdout=subprocess.PIPE)
-        .stdout.decode().split("\t")[2]
-    )
+    return files[0].stem, files[1].stem, ani
 
 
 def main() -> int:
     """Driver code."""
 
-    cpus = int(os.environ.get("CPUS", "1"))
-
-    # Check executable dependencies
-    fastani = check_exec("fastANI")
+    jobs = int(os.environ.get("JOBS", "1"))
 
     if len(sys.argv) < 3:
         print(__doc__, file=sys.stderr)
         return 1
 
-    files = [Path(file) for file in sys.argv[1:]]
-    stems = [file.stem for file in files]
+    files = sorted([Path(file) for file in sys.argv[1:]])
 
     # Compute pairwise ANI between every pair of genomes
-    func = functools.partial(ani, fastani=fastani)
     pairs = itertools.permutations(files, 2)
+    with multiprocessing.Pool(jobs) as pool:
+        df = pd.DataFrame(pool.map(pairwise_ani, pairs))
 
-    with multiprocessing.Pool(cpus) as pool:
-        df = pd.DataFrame(pool.map(func, pairs))
-
-    # Reshape to distance matrix and compute mean of ANI values
-    df = pd.pivot_table(df, index=0, columns=1, values=2).fillna(0)
-    df = (df + df.T) / 2
-    df = df.loc[stems, stems]
-    df.index.name = "genome"
+    # Reshape to distance matrix and save to stdout
+    df = 1 - df.pivot(index=0, columns=1, values=2).fillna(1.0)
+    df.index.name = "accession"
     df.to_csv(sys.stdout)
 
     return 0

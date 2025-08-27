@@ -169,8 +169,8 @@ def main() -> int:
         json.dump(json_contents, handle, indent=2)
 
     # Create csv output file with presence absence of BGC families
-    csv_contents = pd.concat(panclusters, axis=1, sort=True)
-    csv_contents = csv_contents.fillna(0).astype(int)
+    csv_contents = pd.concat(panclusters, sort=True)
+    csv_contents = csv_contents.sort_index().fillna(0).astype(int)
     csv_contents.index.name = "accession"
     csv_contents.to_csv(f"{outprefix}.csv")
 
