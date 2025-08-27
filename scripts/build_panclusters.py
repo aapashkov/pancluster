@@ -172,6 +172,9 @@ def main() -> int:
     csv_contents = pd.concat(panclusters, sort=True)
     csv_contents = csv_contents.sort_index().fillna(0).astype(int)
     csv_contents.index.name = "accession"
+    csv_contents = (
+        csv_contents.groupby(csv_contents.index).sum().astype(bool).astype(int)
+    )
     csv_contents.to_csv(f"{outprefix}.csv")
 
     return 0
