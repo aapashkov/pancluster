@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""usage: dot_plot.py REFERENCE QUERY
+"""usage: dot_plot.py REFERENCE QUERY OUTPREFIX
 
 Create a dot plot between the REFERENCE and QUERY genomes in FASTA format, and
-print it to stdout in SVG format.
+save the alignment into OUTPREFIX.tsv and the plot into OUTPREFIX.svg.
 
-example: dot_plot.py reference.fasta query.fasta > aln.svg"""
+example: dot_plot.py reference.fasta query.fasta aln"""
 
 import io
 import re
@@ -17,7 +17,6 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
 
 
 def check_exec(*executables: str):
@@ -44,12 +43,16 @@ def main() -> int:
 
     minimap2 = check_exec("minimap2")
 
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 4:
         print(__doc__, file=sys.stderr)
         return 1
 
     ref = Path(sys.argv[1]).resolve()
     qry = Path(sys.argv[2]).resolve()
+    out = Path(sys.argv[3]).resolve()
+    if not out.parent.exists():
+        print(f"error: {out.parent} does not exist", file=sys.stderr)
+        return 1
 
     # Run alignment
     process = subprocess.run(
@@ -69,6 +72,7 @@ def main() -> int:
     # Sort reference (t) contigs by size and query (q) contigs by alignment
     paf = paf.sort_values("tstart")
     paf = paf.sort_values(["tlen", "mapq"], ascending=False)
+    paf.to_csv(f"{out}.tsv", sep="\t", index=False)
 
     # Get start positions of reference (t) contigs and query (q) contigs
     tcontigs = (
@@ -140,7 +144,7 @@ def main() -> int:
     ax.grid(visible=True, lw=0.25, color="#EEEEEE")
     ax.set_aspect("equal")
     fig.tight_layout()
-    fig.savefig(sys.stdout, format="svg", transparent=True) # type: ignore
+    fig.savefig(f"{out}.svg", transparent=True)
 
     return 0
 
