@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="950" height="751.01" version="1.1" viewBox="0 0 950 751.01" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="TriangleStart" overflow="visible" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+   <path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="TriangleStart-6" overflow="visible" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+   <path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="TriangleStart-6-4" overflow="visible" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+   <path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+  <marker id="TriangleStart-6-4-9" overflow="visible" markerHeight="6.155385" markerWidth="5.3244081" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 5.3244081 6.1553851">
+   <path transform="scale(.5)" d="m5.77 0-8.65 5v-10z" fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="matrix(1.3333 0 0 -1.3333 0 751.01)">
+  <g fill-opacity=".2">
+   <path d="m80.312 225.13h424.97v16.143h-424.97z" fill="#0173b2"/>
+   <path d="m76.509 241.27h428.78v64.571h-428.78z" fill="#de8f05"/>
+   <path d="m72.199 192.84h433.09v32.286h-433.09z" fill="#029e73"/>
+   <path d="m35.806 31.414h469.48v161.43h-469.48z" fill="#d55e00"/>
+   <path d="m66.179 305.84h439.11v242.14h-439.11z" fill="#cc78bc"/>
+  </g>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10">
+   <g stroke="#000">
+    <g>
+     <path d="m7.2 123.12v135.24"/>
+     <path d="m7.2 258.36h46.491"/>
+     <path d="m7.2 123.12v-35.46"/>
+     <path d="m7.2 87.662h57.212"/>
+     <path d="m7.2 123.12v-99.779"/>
+     <path d="m7.2 23.343h334.8"/>
+     <path d="m53.691 258.36v49.374"/>
+     <path d="m53.691 307.73h6.3869"/>
+     <path d="m53.691 258.36v-49.374"/>
+     <path d="m53.691 208.99h37.017"/>
+     <path d="m60.077 307.73v54.356"/>
+     <path d="m60.077 362.09h12.204"/>
+     <path d="m60.077 307.73v-54.356"/>
+     <path d="m60.077 253.38h7.5391"/>
+     <path d="m72.281 362.09v48.176"/>
+     <path d="m72.281 410.27h20.47"/>
+     <path d="m72.281 362.09v-48.176"/>
+     <path d="m72.281 313.91h17.275"/>
+     <path d="m92.751 410.27v32.79"/>
+     <path d="m92.751 443.06h2.4886"/>
+     <path d="m92.751 410.27v-32.79"/>
+     <path d="m92.751 377.48h8.2547"/>
+     <path d="m95.24 443.06v24.214"/>
+     <path d="m95.24 467.27h21.544"/>
+     <path d="m95.24 443.06v-24.214"/>
+     <path d="m95.24 418.84h11.707"/>
+     <path d="m116.78 467.27v24.214"/>
+     <path d="m116.78 491.48h3.0002"/>
+     <path d="m116.78 467.27v-24.214"/>
+     <path d="m116.78 443.06h5.63"/>
+     <path d="m119.78 491.48v24.214"/>
+     <path d="m119.78 515.7h1.5221"/>
+     <path d="m119.78 491.48v-24.214"/>
+     <path d="m119.78 467.27h0.59125"/>
+     <path d="m121.31 515.7v16.143"/>
+     <path d="m121.31 531.84h0.31306"/>
+     <path d="m121.31 515.7v-16.143"/>
+     <path d="m121.31 499.56h0.35757"/>
+     <path d="m121.62 531.84v8.0714"/>
+     <path d="m121.62 539.91h2.5716"/>
+     <path d="m121.62 531.84v-8.0714"/>
+     <path d="m121.62 523.77h2.3127"/>
+     <path d="m121.66 499.56v8.0714"/>
+     <path d="m121.66 507.63h2.1805"/>
+     <path d="m121.66 499.56v-8.0714"/>
+     <path d="m121.66 491.48h2.325"/>
+     <path d="m120.38 467.27v8.0714"/>
+     <path d="m120.38 475.34h2.6742"/>
+     <path d="m120.38 467.27v-8.0714"/>
+     <path d="m120.38 459.2h2.333"/>
+     <path d="m106.95 418.84v8.0714"/>
+     <path d="m106.95 426.91h14.158"/>
+     <path d="m106.95 418.84v-8.0714"/>
+     <path d="m106.95 410.77h14.123"/>
+     <path d="m101.01 377.48v17.152"/>
+     <path d="m101.01 394.63h10.952"/>
+     <path d="m101.01 377.48v-17.152"/>
+     <path d="m101.01 360.32h2.2161"/>
+     <path d="m103.22 360.32v18.161"/>
+     <path d="m103.22 378.48h8.7631"/>
+     <path d="m103.22 360.32v-18.161"/>
+     <path d="m103.22 342.16h2.0581"/>
+     <path d="m105.28 342.16v12.107"/>
+     <path d="m105.28 354.27h2.069"/>
+     <path d="m105.28 342.16v-12.107"/>
+     <path d="m105.28 330.06h4.7261"/>
+     <path d="m107.35 354.27v8.0714"/>
+     <path d="m107.35 362.34h1.5789"/>
+     <path d="m107.35 354.27v-8.0714"/>
+     <path d="m107.35 346.2h1.3121"/>
+     <path d="m67.617 253.38v20.179"/>
+     <path d="m67.617 273.56h17.784"/>
+     <path d="m67.617 253.38v-20.179"/>
+     <path d="m67.617 233.2h25.392"/>
+     <path d="m85.401 273.56v16.143"/>
+     <path d="m85.401 289.7h0.93842"/>
+     <path d="m85.401 273.56v-16.143"/>
+     <path d="m85.401 257.41h7.234"/>
+     <path d="m86.339 289.7v8.0714"/>
+     <path d="m86.339 297.77h6.5486"/>
+     <path d="m86.339 289.7v-8.0714"/>
+     <path d="m86.339 281.63h5.4537"/>
+     <path d="m92.635 257.41v8.0714"/>
+     <path d="m92.635 265.49h0.5872"/>
+     <path d="m92.635 257.41v-8.0714"/>
+     <path d="m92.635 249.34h0.60024"/>
+     <path d="m90.708 208.99v8.0714"/>
+     <path d="m90.708 217.06h11.146"/>
+     <path d="m90.708 208.99v-8.0714"/>
+     <path d="m90.708 200.91h7.7972"/>
+     <path d="m64.412 87.662v48.176"/>
+     <path d="m64.412 135.84h1.0994"/>
+     <path d="m64.412 87.662v-48.176"/>
+     <path d="m64.412 39.486h3.2699"/>
+     <path d="m65.511 135.84v36.826"/>
+     <path d="m65.511 172.66h1.5598"/>
+     <path d="m65.511 135.84v-36.826"/>
+     <path d="m65.511 99.012h0.47554"/>
+     <path d="m67.071 172.66v12.107"/>
+     <path d="m67.071 184.77h0.98672"/>
+     <path d="m67.071 172.66v-12.107"/>
+     <path d="m67.071 160.56h0.43998"/>
+     <path d="m67.511 160.56v8.0714"/>
+     <path d="m67.511 168.63h0.75425"/>
+     <path d="m67.511 160.56v-8.0714"/>
+     <path d="m67.511 152.49h0.46035"/>
+     <path d="m65.987 99.012v29.259"/>
+     <path d="m65.987 128.27h0.57631"/>
+     <path d="m65.987 99.012v-29.259"/>
+     <path d="m65.987 69.753h0.32419"/>
+     <path d="m66.563 128.27v8.0714"/>
+     <path d="m66.563 136.34h1.9017"/>
+     <path d="m66.563 128.27v-8.0714"/>
+     <path d="m66.563 120.2h2.2693"/>
+     <path d="m66.311 69.753v14.125"/>
+     <path d="m66.311 83.878h0.20519"/>
+     <path d="m66.311 69.753v-14.125"/>
+     <path d="m66.311 55.628h1.3724"/>
+     <path d="m66.516 83.878v12.107"/>
+     <path d="m66.516 95.986h1.0372"/>
+     <path d="m66.516 83.878v-12.107"/>
+     <path d="m66.516 71.771h1.4364"/>
+     <path d="m67.554 95.986v8.0714"/>
+     <path d="m67.554 104.06h0.18509"/>
+     <path d="m67.554 95.986v-8.0714"/>
+     <path d="m67.554 87.914h0.1405"/>
+    </g>
+    <g stroke-width=".99975">
+     <path d="m534.14 93.294v47.041"/>
+     <path d="m534.14 140.34h22.031"/>
+     <path d="m534.14 93.294v-47.041"/>
+     <path d="m534.14 46.253h65.526"/>
+     <path d="m556.17 140.34v35.958"/>
+     <path d="m556.17 176.29h31.257"/>
+     <path d="m556.17 140.34v-35.958"/>
+     <path d="m556.17 104.38h9.5297"/>
+     <path d="m587.43 176.29v11.822"/>
+     <path d="m587.43 188.12h19.773"/>
+     <path d="m587.43 176.29v-11.822"/>
+     <path d="m587.43 164.47h8.8169"/>
+     <path d="m596.25 164.47v7.8812"/>
+     <path d="m596.25 172.35h15.115"/>
+     <path d="m596.25 164.47v-7.8812"/>
+     <path d="m596.25 156.59h9.2253"/>
+     <path d="m565.7 104.38v28.569"/>
+     <path d="m565.7 132.95h11.549"/>
+     <path d="m565.7 104.38v-28.569"/>
+     <path d="m565.7 75.808h6.4966"/>
+     <path d="m577.25 132.95v7.8812"/>
+     <path d="m577.25 140.83h38.108"/>
+     <path d="m577.25 132.95v-7.8812"/>
+     <path d="m577.25 125.07h45.476"/>
+     <path d="m572.2 75.808v13.792"/>
+     <path d="m572.2 89.6h4.1119"/>
+     <path d="m572.2 75.808v-13.792"/>
+     <path d="m572.2 62.016h27.501"/>
+     <path d="m576.31 89.6v11.822"/>
+     <path d="m576.31 101.42h20.785"/>
+     <path d="m576.31 89.6v-11.822"/>
+     <path d="m576.31 77.778h28.785"/>
+     <path d="m597.1 101.42v7.8812"/>
+     <path d="m597.1 109.3h3.7091"/>
+     <path d="m597.1 101.42v-7.8812"/>
+     <path d="m597.1 93.54h2.8153"/>
+    </g>
+   </g>
+   <g>
+    <path d="m508.63 225.94v14.4" stroke="#0173b2"/>
+    <path d="m508.63 242.08v62.828" stroke="#de8f05"/>
+    <path d="m508.63 193.65v30.256" stroke="#029e73"/>
+    <path d="m508.63 32.222v159.69" stroke="#d55e00"/>
+    <path d="m508.63 306.65v240.4" stroke="#cc78bc"/>
+   </g>
+  </g>
+  <rect transform="scale(1,-1)" x="529.39" y="-194.82" width="170.76" height="161.52" fill-opacity=".0032526" stop-color="#000000" stroke="#d55e00" stroke-dasharray="1.14967, 1.14967" stroke-width="1.1497"/>
+  <g transform="translate(127.54 534.91)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_000240135.3</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 12.550781 19.904297 31.59375 34.927734 42.533203 49.916016 57.269531 62.203125 69.808594" y="0">graminearum</tspan></text>
+    <text transform="matrix(1 0 0 -1 270.62 .875)" xml:space="preserve"><tspan x="0 7.2363281" y="0">PH</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 286.88 .875)" xml:space="preserve"><tspan x="0 4.3300781 11.964844" y="0">-1 </tspan></text>
+   <text transform="matrix(1 0 0 -1 302.65 .875)" font-style="italic" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   <text transform="matrix(1 0 0 -1 338.81 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">31084</tspan></text>
+  </g>
+  <g transform="translate(127.28 518.77)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_017656985.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 14.958984 22.300781 27.005859 34.611328 37.945312" y="0">boothii</tspan></text>
+    <text transform="matrix(1 0 0 -1 230.4 .875)" xml:space="preserve"><tspan x="0 8.3789062 16.611328" y="0">CBS</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 258.44 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 25.84375 33.478516" y="0">316.73</tspan></text>
+  </g>
+  <g transform="translate(127.19 502.63)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.191406 83.541016 91.890625 100.24023 108.58984 113.14844" y="0">GCA_017657105.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.31 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 184.8 .875)" xml:space="preserve"><tspan x="0 7.3535156 13.951172 21.304688 27.902344 31.236328 38.589844" y="0">acaciae</tspan></text>
+    <text transform="matrix(1 0 0 -1 234.59 .875)" xml:space="preserve"><tspan x="0 11.689453 19.072266 26.425781 31.359375 38.964844 45.216797 48.550781" y="0">mearnsii</tspan></text>
+    <text transform="matrix(1 0 0 -1 290.29 .875)" xml:space="preserve"><tspan x="0 8.3789062 16.611328" y="0">CBS</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 318.33 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062 38.173828" y="0">110255</tspan></text>
+  </g>
+  <g transform="translate(127.34 486.48)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_025258505.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.3535156 13.605469 16.939453 24.292969 28.998047 32.332031 38.929688 46.535156" y="0">asiaticum</tspan></text>
+    <text transform="matrix(1 0 0 -1 247.34 .875)" xml:space="preserve"><tspan x="0 7.8691406 16.248047 23.578125" y="0">KCTC</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 283.11 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">16664</tspan></text>
+  </g>
+  <g transform="translate(126.4 470.34)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_016952355.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.5976562 14.203125 17.537109 29.226562 36.568359 41.501953 49.107422" y="0">culmorum</tspan></text>
+    <text transform="matrix(1 0 0 -1 249.91 .875)" xml:space="preserve"><tspan x="0 8.3789062 11.712891 19.066406 25.318359" y="0">Class</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 281.48 .875)" xml:space="preserve"><tspan x="0 7.6347656 11.964844" y="0">2-1</tspan></text>
+   <text transform="matrix(1 0 0 -1 301.08 .875)" font-style="italic" xml:space="preserve"><tspan x="0" y="0">B</tspan></text>
+  </g>
+  <g transform="translate(126.06 454.2)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_019055205.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.5976562 13.980469 18.914062 26.296875 33.650391 36.984375 40.318359" y="0">cerealis</tspan></text>
+    <text transform="matrix(1 0 0 -1 235.69 .875)" xml:space="preserve"><tspan x="0" y="0">S</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 243.3 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 19.3125 26.947266" y="0">18/34</tspan></text>
+  </g>
+  <g transform="translate(125.76 438.06)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.14844" y="0">GCA_000303195.2</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.31 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 184.8 .875)" xml:space="preserve"><tspan x="0 7.6171875 13.869141 21.251953 28.857422 36.474609 43.816406 51.433594 56.367188 63.720703 75.410156 78.744141 86.349609 93.732422 101.08594 106.01953 113.625" y="0">pseudograminearum</tspan></text>
+    <text transform="matrix(1 0 0 -1 313.93 .875)" xml:space="preserve"><tspan x="0 8.3789062" y="0">CS</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 329.93 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297" y="0">3096</tspan></text>
+  </g>
+  <g transform="translate(124.45 421.91)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_019609905.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 14.958984 22.3125" y="0">poae</tspan></text>
+    <text transform="matrix(1 0 0 -1 218.81 .875)" xml:space="preserve"><tspan x="0 9.2402344 17.449219 26.894531 37.248047" y="0">DAOMC</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 268.25 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062 38.173828" y="0">252244</tspan></text>
+  </g>
+  <g transform="translate(124.42 405.77)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_020744135.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.1015625 14.484375 22.089844 29.472656 37.078125 44.431641 49.136719 56.742188" y="0">venenatum</tspan></text>
+    <text transform="matrix(1 0 0 -1 257.55 .875)" xml:space="preserve"><tspan x="0 10.353516 17.589844" y="0">MPI</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 278.68 .875)" xml:space="preserve"><tspan x="0" y="0">-</tspan></text>
+   <text transform="matrix(1 0 0 -1 283.01 .875)" font-style="italic" xml:space="preserve"><tspan x="0 8.3789062 16.587891 25.886719" y="0">CAGE</tspan></text>
+   <text transform="matrix(1 0 0 -1 316.48 .875)" xml:space="preserve"><tspan x="0" y="0">-</tspan></text>
+   <text transform="matrix(1 0 0 -1 320.81 .875)" font-style="italic" xml:space="preserve"><tspan x="0 8.3789062" y="0">CH</tspan></text>
+   <text transform="matrix(1 0 0 -1 338.21 .875)" xml:space="preserve"><tspan x="0 4.3300781 11.964844 19.599609 27.234375" y="0">-0201</tspan></text>
+  </g>
+  <g transform="translate(115.31 389.63)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.015625 100.36523 108.71484 113.27344" y="0">GCA_013618295.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.44 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 184.93 .875)" xml:space="preserve"><tspan x="0 7.3535156 12.287109 23.976562 31.359375 38.964844 42.298828 49.652344 56.25 63.855469" y="0">armeniacum</tspan></text>
+    <text transform="matrix(1 0 0 -1 264.29 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 300.44 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">25141</tspan></text>
+  </g>
+  <g transform="translate(115.33 373.48)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_014898975.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6054688 14.947266 22.564453 29.90625 36.158203 43.763672" y="0">nodosum</tspan></text>
+    <text transform="matrix(1 0 0 -1 244.57 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 280.72 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">36351</tspan></text>
+  </g>
+  <g transform="translate(112.28 357.34)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_014898995.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.2519531 9.5859375 17.203125 20.537109 25.470703 28.804688 35.402344 43.007812" y="0">sibiricum</tspan></text>
+    <text transform="matrix(1 0 0 -1 243.81 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 279.97 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">53430</tspan></text>
+  </g>
+  <g transform="translate(112.01 341.2)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_019054645.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.2519531 13.869141 21.210938 26.144531 33.486328 38.191406 43.125 46.458984 53.056641 60.662109 63.996094 71.337891 74.671875 82.289062 89.671875" y="0">sporotrichioides</tspan></text>
+    <text transform="matrix(1 0 0 -1 285.04 .875)" xml:space="preserve"><tspan x="0" y="0">S</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 292.66 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 19.3125 26.947266" y="0">17/16</tspan></text>
+  </g>
+  <g transform="translate(113.35 325.06)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_018104275.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 3.3339844 10.6875 18.292969 25.910156 32.162109 39.544922 44.25 51.855469 55.189453 62.542969" y="0">langsethiae</tspan></text>
+    <text transform="matrix(1 0 0 -1 259.04 .875)" xml:space="preserve"><tspan x="0 6.9023438" y="0">Fe</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 273.33 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297" y="0">2391</tspan></text>
+  </g>
+  <g transform="translate(92.904 308.91)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_018886245.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 12.550781 19.904297 26.501953 34.107422 41.208984 48.826172 52.160156 59.777344 67.394531 74.736328 80.988281 88.59375" y="0">brachygibbosum</tspan></text>
+    <text transform="matrix(1 0 0 -1 289.4 .875)" xml:space="preserve"><tspan x="0 9.0234375" y="0">HN</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 307.4 .875)" xml:space="preserve"><tspan x="0 4.3300781" y="0">-1</tspan></text>
+  </g>
+  <g transform="translate(96.236 292.77)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_011034095.1</tspan></text>
+   <text transform="matrix(1 0 0 -1 125.81 .875)" font-style="italic" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+   <text transform="matrix(1 0 0 -1 185.3 .875)" font-style="italic" xml:space="preserve"><tspan x="0 6.5976562" y="0">cf</tspan></text>
+   <text transform="matrix(1 0 0 -1 196.12 .875)" xml:space="preserve"><tspan x="0 6.1523438" y="0">. </tspan></text>
+   <text transform="matrix(1 0 0 -1 206.09 .875)" font-style="italic" xml:space="preserve"><tspan x="0 7.3535156 14.455078 24.269531 31.652344 36.585938 41.291016" y="0">aywerte</tspan></text>
+   <text transform="matrix(1 0 0 -1 258.58 .875)" font-style="italic" xml:space="preserve"><tspan x="0 7.5820312 12.287109 19.904297 26.806641 34.148438" y="0">EtdFoc</tspan></text>
+   <text transform="matrix(1 0 0 -1 299.33 .875)" xml:space="preserve"><tspan x="0 4.3300781 11.964844 19.599609" y="0">-240</tspan></text>
+  </g>
+  <g transform="translate(95.141 276.63)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.140625 100.49023 108.83984 113.39844" y="0">GCA_014898925.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.56 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.05 .875)" xml:space="preserve"><tspan x="0 7.6054688 14.988281 18.322266 24.574219 31.916016 39.521484 42.855469" y="0">nelsonii</tspan></text>
+    <text transform="matrix(1 0 0 -1 235.06 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 271.21 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">13338</tspan></text>
+  </g>
+  <g transform="translate(96.57 260.49)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_014898915.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.5976562 14.203125 17.537109 24.890625 36.580078 43.681641 51.298828 58.640625 64.892578 72.509766 79.851562 84.785156 92.390625" y="0">chlamydosporum</tspan></text>
+    <text transform="matrix(1 0 0 -1 293.2 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 329.35 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">13444</tspan></text>
+  </g>
+  <g transform="translate(96.583 244.34)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 59.242188 67.591797 75.941406 84.291016 92.640625 100.99023 109.33984 113.89844" y="0">GCA_047716405.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 126.06 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.55 .875)" xml:space="preserve"><tspan x="0 6.5976562 14.203125 17.537109 24.890625 36.580078 43.681641 51.298828 58.640625 64.892578 72.509766 79.851562 84.785156 92.390625" y="0">chlamydosporum</tspan></text>
+    <text transform="matrix(1 0 0 -1 293.45 .875)" xml:space="preserve"><tspan x="0 3.5390625 8.4726562 15.826172 25.125 32.455078 41.900391" y="0">IraGTOF</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 342.25 .875)" xml:space="preserve"><tspan x="0" y="0">6</tspan></text>
+  </g>
+  <g transform="translate(96.356 228.2)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_013186375.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.3535156 14.455078 24.269531 31.652344 36.585938 41.291016" y="0">aywerte</tspan></text>
+    <text transform="matrix(1 0 0 -1 237.79 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 273.94 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">25410</tspan></text>
+  </g>
+  <g transform="translate(105.2 212.06)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_003316985.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 6.5976562 13.939453 18.164062 22.388672 29.771484 37.125 41.830078 49.435547" y="0">coffeatum</tspan></text>
+    <text transform="matrix(1 0 0 -1 250.24 .875)" xml:space="preserve"><tspan x="0 6.9023438 10.441406 18.023438 25.640625" y="0">FIESC</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 284.26 .875)" xml:space="preserve"><tspan x="0 6 13.634766" y="0">_28</tspan></text>
+  </g>
+  <g transform="translate(101.85 195.91)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_020744385.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 4.2246094 7.5585938 14.912109 22.529297 29.912109 33.246094 36.580078 39.914062 44.138672 51.480469 56.414062 68.103516" y="0">flagelliforme</tspan></text>
+    <text transform="matrix(1 0 0 -1 264.6 .875)" xml:space="preserve"><tspan x="0 6.9023438 10.441406 18.023438 25.640625" y="0">FIESC</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 302.44 .875)" xml:space="preserve"><tspan x="0 7.6347656" y="0">12</tspan></text>
+  </g>
+  <g transform="translate(71.406 179.77)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_000260195.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.3417969 14.958984 22.300781 27.234375 34.587891 39.292969 42.626953 48.878906 55.130859 58.464844 70.154297 77.759766" y="0">odoratissimum</tspan></text>
+    <text transform="matrix(1 0 0 -1 278.57 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 314.72 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">54006</tspan></text>
+  </g>
+  <g transform="translate(71.613 163.63)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_040822135.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 15.222656 20.15625 27.773438 35.378906 40.3125 47.666016 53.917969 60.515625 67.898438 75.503906" y="0">purpurascens</tspan></text>
+    <text transform="matrix(1 0 0 -1 270.87 .875)" xml:space="preserve"><tspan x="0" y="0">C</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 279.25 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531" y="0">058</tspan></text>
+  </g>
+  <g transform="translate(71.32 147.49)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_040822225.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.6171875 15.222656 18.556641 25.910156 29.244141 36.585938 44.203125 51.808594 59.150391 64.083984 71.689453" y="0">phialophorum</tspan></text>
+    <text transform="matrix(1 0 0 -1 272.5 .875)" xml:space="preserve"><tspan x="0 8.3789062" y="0">CR</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 289.21 .875)" xml:space="preserve"><tspan x="0 7.6347656 11.449219" y="0">1.1</tspan></text>
+  </g>
+  <g transform="translate(71.813 131.34)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_013085055.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.3417969 14.443359 21.544922 27.796875 35.414062 42.755859 47.689453 55.294922" y="0">oxysporum</tspan></text>
+    <text transform="matrix(1 0 0 -1 256.1 .875)" xml:space="preserve"><tspan x="0 6.9023438" y="0">Fo</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 270.35 .875)" xml:space="preserve"><tspan x="0 7.6347656" y="0">47</tspan></text>
+  </g>
+  <g transform="translate(72.181 115.2)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_041380375.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.1015625 14.484375 19.189453 26.572266 31.505859 34.839844 42.445312 49.798828 54.732422 58.066406 65.671875" y="0">veterinarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 266.48 .875)" xml:space="preserve"><tspan x="0 6.5976562 14.203125 18.908203 23.613281 26.947266 34.552734 42.169922" y="0">cuttings</tspan></text>
+   </g>
+  </g>
+  <g transform="translate(71.087 99.057)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_016165945.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 7.3417969 14.443359 21.544922 27.796875 35.414062 42.755859 47.689453 55.294922" y="0">oxysporum</tspan></text>
+    <text transform="matrix(1 0 0 -1 256.1 .875)" xml:space="preserve"><tspan x="0" y="0">f</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 260.33 .875)" xml:space="preserve"><tspan x="0 6.1523438" y="0">. </tspan></text>
+   <text transform="matrix(1 0 0 -1 270.29 .875)" font-style="italic" xml:space="preserve"><tspan x="0 6.2519531" y="0">sp</tspan></text>
+   <text transform="matrix(1 0 0 -1 284.16 .875)" xml:space="preserve"><tspan x="0 6.1523438" y="0">. </tspan></text>
+   <text transform="matrix(1 0 0 -1 294.13 .875)" font-style="italic" xml:space="preserve"><tspan x="0 11.689453 19.03125 23.964844" y="0">mori</tspan></text>
+   <text transform="matrix(1 0 0 -1 325.24 .875)" font-style="italic" xml:space="preserve"><tspan x="0 9.2988281" y="0">GL</tspan></text>
+   <text transform="matrix(1 0 0 -1 341.23 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297" y="0">1804</tspan></text>
+  </g>
+  <g fill="#000000" font-family="'DejaVu Sans'">
+   <g font-weight="bold">
+    <text transform="scale(1,-1)" x="71.042053" y="-83.789116" font-size="12px" xml:space="preserve"><tspan x="71.042053 75.506897 81.424866 89.522522 99.372131 107.55768 117.75885 125.95612 134.30573" y="-83.789116">IraGTOF11</tspan></text>
+    <text transform="scale(1,-1)" x="624.36365" y="-122.66106" font-size="7.2966px" stroke-width=".60805" xml:space="preserve"><tspan x="624.36365" y="-122.66106" stroke-width=".60805">GCA_041380375.1</tspan></text>
+    <text transform="scale(1,-1)" x="616.99597" y="-138.42349" font-size="7.2966px" stroke-width=".60805" xml:space="preserve"><tspan x="616.99597" y="-138.42349" stroke-width=".60805">GCA_013085055.1</tspan></text>
+   </g>
+   <g font-size="12px">
+    <g font-style="italic">
+     <text transform="scale(1,-1)" x="146.46979" y="-83.789116" xml:space="preserve"><tspan x="146.46979 153.37213 160.9776 167.22955 174.58307 179.51666 182.85065 190.45612" y="-83.789116">Fusarium</tspan></text>
+     <text transform="scale(1,-1)" x="205.96002" y="-83.789116" xml:space="preserve"><tspan x="205.96002 213.30182 220.40338 227.50494 233.7569 241.37408 248.71588 253.64948 261.25494" y="-83.789116">oxysporum</tspan></text>
+     <text transform="scale(1,-1)" x="276.75885" y="-83.789116" xml:space="preserve"><tspan x="276.75885 280.29791 285.23151 292.58502 301.88385 309.21393 318.65924" y="-83.789116">IraGTOF</tspan></text>
+    </g>
+    <text transform="scale(1,-1)" x="325.56158" y="-83.789116" xml:space="preserve"><tspan x="325.56158 333.19635" y="-83.789116">11</tspan></text>
+   </g>
+  </g>
+  <g transform="translate(71.301 66.771)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_044647245.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 3.3339844 10.939453 15.164062 18.498047 25.880859 32.982422 40.587891" y="0">inflexum</tspan></text>
+    <text transform="matrix(1 0 0 -1 241.39 .875)" xml:space="preserve"><tspan x="0 3.5390625 10.869141 19.892578 28.101562 36.333984 44.712891" y="0">JTHABCO</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 295.55 .875)" xml:space="preserve"><tspan x="0 7.6347656 11.449219" y="0">3.1</tspan></text>
+  </g>
+  <g transform="translate(71.032 50.628)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_040822145.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 4.7050781 12.058594 16.992188 24.609375 27.943359 34.541016 42.146484 45.480469 52.833984 64.523438 71.625 79.242188 86.583984 92.835938 100.45312 107.79492 112.72852 120.33398" y="0">tardichlamydosporum</tspan></text>
+    <text transform="matrix(1 0 0 -1 321.14 .875)" xml:space="preserve"><tspan x="0" y="0">C</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 329.52 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531" y="0">135</tspan></text>
+  </g>
+  <g transform="translate(71.03 34.486)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .875)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_013623845.1</tspan></text>
+   <g font-style="italic">
+    <text transform="matrix(1 0 0 -1 125.81 .875)" xml:space="preserve"><tspan x="0 6.9023438 14.507812 20.759766 28.113281 33.046875 36.380859 43.986328" y="0">Fusarium</tspan></text>
+    <text transform="matrix(1 0 0 -1 185.3 .875)" xml:space="preserve"><tspan x="0 4.2246094 11.566406 18.949219 23.654297 31.037109 38.642578" y="0">foetens</tspan></text>
+    <text transform="matrix(1 0 0 -1 234.01 .875)" xml:space="preserve"><tspan x="0 8.9765625 17.314453 25.652344" y="0">NRRL</tspan></text>
+   </g>
+   <text transform="matrix(1 0 0 -1 270.16 .875)" xml:space="preserve"><tspan x="0 7.6347656 15.269531 22.904297 30.539062" y="0">38302</tspan></text>
+  </g>
+  <g transform="translate(345.35 18.843)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px">
+   <text transform="matrix(1 0 0 -1 0 .09375)" font-weight="bold" xml:space="preserve"><tspan x="0 9.8496094 18.65625 27.943359 33.943359 42.292969 50.642578 58.992188 67.341797 75.691406 84.041016 92.390625 100.74023 109.08984 113.64844" y="0">GCA_037954315.1</tspan></text>
+   <text transform="matrix(1 0 0 -1 125.81 .09375)" font-style="italic" xml:space="preserve"><tspan x="0" y="0">Neonectria punicea NRRL 64653</tspan></text>
+  </g>
+  <g transform="translate(511.98 229.27)">
+   <text transform="scale(1,-1)" fill="#0173b2" font-family="'DejaVu Sans'" font-size="14px" font-weight="bold" xml:space="preserve"><tspan x="0 7.9682498 18.804251 28.884251" y="0">FASC</tspan></text>
+  </g>
+  <g transform="rotate(-90 404.3 -110.58)">
+   <text transform="scale(1,-1)" fill="#de8f05" font-family="'DejaVu Sans'" font-size="14px" font-weight="bold" xml:space="preserve"><tspan x="0 9.5620003 20.087999 30.167999" y="0">FCSC</tspan></text>
+  </g>
+  <g transform="translate(511.98 204.91)">
+   <text transform="scale(1,-1)" fill="#029e73" font-family="'DejaVu Sans'" font-size="14px" font-weight="bold" xml:space="preserve"><tspan x="0 9.5620003 14.77 24.332001 34.411999" y="0">FIESC</tspan></text>
+  </g>
+  <g transform="rotate(-90 323.93 -190.95)">
+   <text transform="scale(1,-1)" fill="#d55e00" font-family="'DejaVu Sans'" font-size="14px" font-weight="bold" xml:space="preserve"><tspan x="0 9.5620003 21.462 31.542" y="0">FOSC</tspan></text>
+  </g>
+  <g transform="rotate(-90 487.06 -27.823)">
+   <text transform="scale(1,-1)" fill="#cc78bc" font-family="'DejaVu Sans'" font-size="14px" font-weight="bold" xml:space="preserve"><tspan x="0 9.5620003 19.642 30.478001 44.408001 54.487999" y="0">FSAMSC</tspan></text>
+  </g>
+  <g transform="translate(67.17 455.36)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px" font-weight="bold" xml:space="preserve"><tspan x="0 8.3520002" y="0">58</tspan></text>
+  </g>
+  <g transform="translate(61.764 300.78)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px" font-weight="bold" xml:space="preserve"><tspan x="0 8.3520002" y="0">95</tspan></text>
+  </g>
+  <g transform="translate(37.393 71.394)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px" font-weight="bold" xml:space="preserve"><tspan x="0 8.3520002" y="0">96</tspan></text>
+  </g>
+  <g transform="translate(543.15 63.26)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="12px" font-weight="bold" xml:space="preserve"><tspan x="0 8.3520002" y="0">96</tspan></text>
+  </g>
+  <path d="m8.8 18.55h56.116z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <g transform="translate(27.944 10.472)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="8px" xml:space="preserve"><tspan x="0 5.0879998 7.632 12.72" y="0">0.05</tspan></text>
+  </g>
+  <path d="m533.62 43.357h56.116z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <g transform="translate(552.6 35.279)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="8px" xml:space="preserve"><tspan x="0" y="0">1.00</tspan></text>
+  </g>
+  <g>
+   <g stroke="#f00" stroke-width=".99975">
+    <path d="m559.94 72.252 13.607 14.315" marker-end="url(#TriangleStart)" stop-color="#000000"/>
+    <path d="m53.055 80.966 10.46 9.6986" marker-end="url(#TriangleStart-6)" stop-color="#000000"/>
+    <path d="m77.93 300.68 6.1224-7.6182" marker-end="url(#TriangleStart-6-4)" stop-color="#000000"/>
+    <path d="m83.742 454.84 8.8526-8.9655" marker-end="url(#TriangleStart-6-4-9)" stop-color="#000000"/>
+   </g>
+   <rect transform="scale(1,-1)" x="61.804" y="-189.41" width="8.7964" height="153.76" fill-opacity=".0032526" stop-color="#000000" stroke="#d55e00" stroke-dasharray="0.9945, 0.9945" stroke-width=".9945"/>
+  </g>
+  <g fill="#000000" font-family="'DejaVu Sans'" font-size="7.2966px" font-weight="bold" stroke-width=".60805">
+   <text transform="scale(1,-1)" x="607.10834" y="-154.18593" xml:space="preserve"><tspan x="607.10834" y="-154.18593" stroke-width=".60805">GCA_040822225.1</tspan></text>
+   <text transform="scale(1,-1)" x="612.99768" y="-169.94836" xml:space="preserve"><tspan x="612.99768" y="-169.94836" stroke-width=".60805">GCA_040822135.1</tspan></text>
+   <text transform="scale(1,-1)" x="608.83936" y="-185.7108" xml:space="preserve"><tspan x="608.83936" y="-185.7108" stroke-width=".60805">GCA_000260195.1</tspan></text>
+   <text transform="scale(1,-1)" x="602.44177" y="-106.89862" xml:space="preserve"><tspan x="602.44177" y="-106.89862" stroke-width=".60805">GCA_016165945.1</tspan></text>
+   <text transform="scale(1,-1)" x="601.24164" y="-90.884369" xml:space="preserve"><tspan x="601.24164" y="-90.884369" stroke-width=".60805">IraGTOF11</tspan></text>
+   <text transform="scale(1,-1)" x="606.73242" y="-75.373734" xml:space="preserve"><tspan x="606.73242" y="-75.373734" stroke-width=".60805">GCA_044647245.1</tspan></text>
+   <text transform="scale(1,-1)" x="601.33704" y="-59.611301" xml:space="preserve"><tspan x="601.33704" y="-59.611301" stroke-width=".60805">GCA_040822145.1</tspan></text>
+   <text transform="scale(1,-1)" x="601.30493" y="-43.848862" xml:space="preserve"><tspan x="601.30493" y="-43.848862" stroke-width=".60805">GCA_013623845.1</tspan></text>
+  </g>
+ </g>
+</svg>
