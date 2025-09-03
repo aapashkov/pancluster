@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="480" height="384" version="1.1" viewBox="0 0 480 384" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath106">
+   <path d="m108.23 100.39h176.81v176.81h-176.81z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1.3333 0 0 -1.3333 0 384)">
+  <path d="m285.04 268.36h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 264.56)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">0.81</tspan></text>
+  </g>
+  <path d="m285.04 250.68h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 246.88)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">1.00</tspan></text>
+  </g>
+  <path d="m285.04 233h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 229.2)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">0.93</tspan></text>
+  </g>
+  <path d="m285.04 215.32h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 211.52)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">0.90</tspan></text>
+  </g>
+  <path d="m285.04 197.64h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 193.84)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">1.00</tspan></text>
+  </g>
+  <path d="m285.04 179.96h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 176.16)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">1.00</tspan></text>
+  </g>
+  <path d="m285.04 162.28h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 158.48)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">1.00</tspan></text>
+  </g>
+  <path d="m285.04 144.6h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 140.8)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">1.00</tspan></text>
+  </g>
+  <path d="m285.04 126.91h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 123.12)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">0.97</tspan></text>
+  </g>
+  <path d="m285.04 109.23h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(292.04 105.44)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001 9.54 15.9" y="0">0.89</tspan></text>
+  </g>
+  <g transform="rotate(90 78.674 247.22)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0">por-clase</tspan></text>
+  </g>
+  <path d="m285.04 100.39v176.81" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".8"/>
+  <g clip-path="url(#clipPath106)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6">
+   <path d="m108.23 277.2h17.681v-17.681h-17.681v17.681" fill="#dce9f6"/>
+   <g fill="#f7fbff">
+    <path d="m125.91 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 277.2h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 259.52h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m125.91 259.52h17.681v-17.681h-17.681v17.681" fill="#cee0f2"/>
+   <g fill="#f7fbff">
+    <path d="m143.59 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 259.52h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 259.52h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m108.23 241.84h17.681v-17.681h-17.681v17.681" fill="#eef5fc"/>
+   <path d="m125.91 241.84h17.681v-17.681h-17.681v17.681" fill="#f7fbff"/>
+   <path d="m143.59 241.84h17.681v-17.681h-17.681v17.681" fill="#2272b6"/>
+   <path d="m161.27 241.84h17.681v-17.681h-17.681v17.681" fill="#f3f8fe"/>
+   <g fill="#f7fbff">
+    <path d="m178.96 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 241.84h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 224.16h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m161.27 224.16h17.681v-17.681h-17.681v17.681" fill="#caddf0"/>
+   <g fill="#f7fbff">
+    <path d="m178.96 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 224.16h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m249.68 224.16h17.681v-17.681h-17.681v17.681" fill="#f3f8fe"/>
+   <g fill="#f7fbff">
+    <path d="m267.36 224.16h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 206.48h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m178.96 206.48h17.681v-17.681h-17.681v17.681" fill="#82bbdb"/>
+   <g fill="#f7fbff">
+    <path d="m196.64 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 206.48h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 188.8h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m196.64 188.8h17.681v-17.681h-17.681v17.681" fill="#08306b"/>
+   <g fill="#f7fbff">
+    <path d="m214.32 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 188.8h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 171.12h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m214.32 171.12h17.681v-17.681h-17.681v17.681" fill="#8cc0dd"/>
+   <g fill="#f7fbff">
+    <path d="m232 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 171.12h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 153.44h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m232 153.44h17.681v-17.681h-17.681v17.681" fill="#d3e3f3"/>
+   <g fill="#f7fbff">
+    <path d="m249.68 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m267.36 153.44h17.681v-17.681h-17.681v17.681"/>
+    <path d="m108.23 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m125.91 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m143.59 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m161.27 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 135.76h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 135.76h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m249.68 135.76h17.681v-17.681h-17.681v17.681" fill="#a6cee4"/>
+   <path d="m267.36 135.76h17.681v-17.681h-17.681v17.681" fill="#f7fbff"/>
+   <path d="m108.23 118.07h17.681v-17.681h-17.681v17.681" fill="#f3f8fe"/>
+   <path d="m125.91 118.07h17.681v-17.681h-17.681v17.681" fill="#f7fbff"/>
+   <path d="m143.59 118.07h17.681v-17.681h-17.681v17.681" fill="#f3f8fe"/>
+   <g fill="#f7fbff">
+    <path d="m161.27 118.07h17.681v-17.681h-17.681v17.681"/>
+    <path d="m178.96 118.07h17.681v-17.681h-17.681v17.681"/>
+    <path d="m196.64 118.07h17.681v-17.681h-17.681v17.681"/>
+    <path d="m214.32 118.07h17.681v-17.681h-17.681v17.681"/>
+    <path d="m232 118.07h17.681v-17.681h-17.681v17.681"/>
+    <path d="m249.68 118.07h17.681v-17.681h-17.681v17.681"/>
+   </g>
+   <path d="m267.36 118.07h17.681v-17.681h-17.681v17.681" fill="#d3e3f3"/>
+  </g>
+  <path d="m117.07 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 42.288 77.542)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">conglutinans</tspan></text>
+  </g>
+  <path d="m134.75 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 52.94 84.571)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">cucumerinum</tspan></text>
+  </g>
+  <path d="m152.43 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 52.323 102.87)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">fragariae</tspan></text>
+  </g>
+  <path d="m170.11 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 47.083 125.79)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lini</tspan></text>
+  </g>
+  <path d="m187.8 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 72.706 117.85)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lycopersici</tspan></text>
+  </g>
+  <path d="m205.48 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 74.739 133.49)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">melonis</tspan></text>
+  </g>
+  <path d="m223.16 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 82.84 143.07)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">niveum</tspan></text>
+  </g>
+  <path d="m240.84 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 91.529 152.07)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">physali</tspan></text>
+  </g>
+  <path d="m258.52 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 105.13 156.15)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">spinaciae</tspan></text>
+  </g>
+  <path d="m276.2 100.39v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="rotate(90 120.03 158.93)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">vasinfectum</tspan></text>
+  </g>
+  <g transform="translate(173.36 12.878)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0">predicción</tspan></text>
+  </g>
+  <path d="m108.23 268.36h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(43.093 265.6)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">conglutinans</tspan></text>
+  </g>
+  <path d="m108.23 250.68h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(39.47 247.92)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">cucumerinum</tspan></text>
+  </g>
+  <path d="m108.23 233h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(58.386 230.24)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">fragariae</tspan></text>
+  </g>
+  <path d="m108.23 215.32h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(86.545 212.56)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lini</tspan></text>
+  </g>
+  <path d="m108.23 197.64h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(52.981 194.88)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lycopersici</tspan></text>
+  </g>
+  <path d="m108.23 179.96h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(66.594 177.2)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">melonis</tspan></text>
+  </g>
+  <path d="m108.23 162.28h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(68.074 159.52)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">niveum</tspan></text>
+  </g>
+  <path d="m108.23 144.6h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(68.376 141.84)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">physali</tspan></text>
+  </g>
+  <path d="m108.23 126.91h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(58.855 124.16)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">spinaciae</tspan></text>
+  </g>
+  <path d="m108.23 109.23h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+  <g transform="translate(46.741 106.48)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">vasinfectum</tspan></text>
+  </g>
+  <g transform="rotate(90 -70.24 96.472)">
+   <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0">verdadera</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".8">
+   <path d="m108.23 100.39v176.81"/>
+   <path d="m285.04 100.39v176.81"/>
+   <path d="m108.23 100.39h176.81"/>
+   <path d="m108.23 277.2h176.81"/>
+  </g>
+  <g transform="translate(113.89 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">6</tspan></text>
+  </g>
+  <g transform="translate(131.57 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 265.6)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">9</tspan></text>
+  </g>
+  <g transform="translate(149.25 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 247.92)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">2</tspan></text>
+  </g>
+  <g transform="translate(131.57 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(146.07 230.24)">
+   <text transform="scale(1,-1)" fill="#ffffff" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">32</tspan></text>
+  </g>
+  <g transform="translate(166.94 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g transform="translate(184.62 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 230.24)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(163.76 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">10</tspan></text>
+  </g>
+  <g transform="translate(184.62 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g transform="translate(273.02 212.56)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(181.44 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">19</tspan></text>
+  </g>
+  <g transform="translate(202.3 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 194.88)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(199.12 177.2)">
+   <text transform="scale(1,-1)" fill="#ffffff" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">43</tspan></text>
+  </g>
+  <g transform="translate(219.98 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 177.2)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(216.8 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">18</tspan></text>
+  </g>
+  <g transform="translate(237.66 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 159.52)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">8</tspan></text>
+  </g>
+  <g transform="translate(255.34 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 141.84)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(131.57 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(166.94 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(252.16 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0 6.3600001" y="0">15</tspan></text>
+  </g>
+  <g transform="translate(273.02 124.16)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(113.89 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g transform="translate(131.57 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(149.25 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g transform="translate(166.94 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(184.62 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(202.3 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(219.98 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(237.66 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(255.34 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g transform="translate(273.02 106.48)">
+   <text transform="scale(1,-1)" fill="#262626" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">8</tspan></text>
+  </g>
+ </g>
+</svg>
