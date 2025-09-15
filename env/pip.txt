@@ -4,6 +4,7 @@ dataclasses==0.6
 nanoget==1.13.2
 nanomath==1.4.0
 nanostat==1.6.0
+phytreeviz==0.2.0
 pycirclize==1.6.0
 pyfastx==2.2.0
 pyfastx==2.2.0
