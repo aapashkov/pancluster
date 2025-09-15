@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="644" height="500" version="1.1" viewBox="0 0 644 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clipPath18">
+   <path d="m86.722 247.56h325.18v154.85h-325.18z"/>
+  </clipPath>
+  <clipPath id="clipPath718">
+   <path d="m-1021-463h2815v1696h-2815z"/>
+  </clipPath>
+  <clipPath id="clipPath738">
+   <path d="m-1021-463h2815v1696h-2815z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1.3333 0 0 -1.3333 0 672)">
+  <g transform="translate(-3,88.5)">
+   <g clip-path="url(#clipPath18)" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".6">
+    <path d="m86.722 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m102.21 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m117.69 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m133.18 402.41h15.485v-15.485h-15.485v15.485" fill="#bf6765"/>
+    <g fill="#f9f5f5">
+     <path d="m148.66 402.41h15.485v-15.485h-15.485v15.485"/>
+     <path d="m164.15 402.41h15.485v-15.485h-15.485v15.485"/>
+     <path d="m179.63 402.41h15.485v-15.485h-15.485v15.485"/>
+    </g>
+    <path d="m195.12 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <g fill="#f9f5f5">
+     <path d="m210.6 402.41h15.485v-15.485h-15.485v15.485"/>
+     <path d="m226.09 402.41h15.485v-15.485h-15.485v15.485"/>
+     <path d="m241.57 402.41h15.485v-15.485h-15.485v15.485"/>
+    </g>
+    <path d="m257.06 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m272.54 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m288.03 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m303.51 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m319 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m334.48 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m349.96 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m365.45 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m380.93 402.41h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m396.42 402.41h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m86.722 386.92h15.485v-15.485h-15.485v15.485" fill="#f5e5e4"/>
+    <path d="m102.21 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m117.69 386.92h15.485v-15.485h-15.485v15.485" fill="#f7f4f5"/>
+    <path d="m133.18 386.92h15.485v-15.485h-15.485v15.485" fill="#f1eff2"/>
+    <path d="m148.66 386.92h15.485v-15.485h-15.485v15.485" fill="#e4e5eb"/>
+    <path d="m164.15 386.92h15.485v-15.485h-15.485v15.485" fill="#d49a97"/>
+    <path d="m179.63 386.92h15.485v-15.485h-15.485v15.485" fill="#f8edeb"/>
+    <path d="m195.12 386.92h15.485v-15.485h-15.485v15.485" fill="#f2dfdd"/>
+    <path d="m210.6 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m226.09 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m241.57 386.92h15.485v-15.485h-15.485v15.485" fill="#cbd1de"/>
+    <path d="m257.06 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m272.54 386.92h15.485v-15.485h-15.485v15.485" fill="#92a7c8"/>
+    <path d="m288.03 386.92h15.485v-15.485h-15.485v15.485" fill="#d49896"/>
+    <path d="m303.51 386.92h15.485v-15.485h-15.485v15.485" fill="#eeedf0"/>
+    <path d="m319 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m334.48 386.92h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m349.96 386.92h15.485v-15.485h-15.485v15.485" fill="#cbd1de"/>
+    <path d="m365.45 386.92h15.485v-15.485h-15.485v15.485" fill="#f1eff2"/>
+    <path d="m380.93 386.92h15.485v-15.485h-15.485v15.485" fill="#a3b4cd"/>
+    <path d="m396.42 386.92h15.485v-15.485h-15.485v15.485" fill="#e4e5eb"/>
+    <path d="m86.722 371.44h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m102.21 371.44h15.485v-15.485h-15.485v15.485" fill="#deb1ae"/>
+    <path d="m117.69 371.44h15.485v-15.485h-15.485v15.485" fill="#f3f1f3"/>
+    <path d="m133.18 371.44h15.485v-15.485h-15.485v15.485" fill="#9aadca"/>
+    <path d="m148.66 371.44h15.485v-15.485h-15.485v15.485" fill="#cdd3df"/>
+    <path d="m164.15 371.44h15.485v-15.485h-15.485v15.485" fill="#839dc4"/>
+    <path d="m179.63 371.44h15.485v-15.485h-15.485v15.485" fill="#f2f0f2"/>
+    <path d="m195.12 371.44h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m210.6 371.44h15.485v-15.485h-15.485v15.485" fill="#e6e6ec"/>
+    <path d="m226.09 371.44h15.485v-15.485h-15.485v15.485" fill="#f2e0df"/>
+    <path d="m241.57 371.44h15.485v-15.485h-15.485v15.485" fill="#e6e6ec"/>
+    <path d="m257.06 371.44h15.485v-15.485h-15.485v15.485" fill="#c2cada"/>
+    <path d="m272.54 371.44h15.485v-15.485h-15.485v15.485" fill="#d7a09d"/>
+    <path d="m288.03 371.44h15.485v-15.485h-15.485v15.485" fill="#e9e9ed"/>
+    <path d="m303.51 371.44h15.485v-15.485h-15.485v15.485" fill="#cdd3df"/>
+    <path d="m319 371.44h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m334.48 371.44h15.485v-15.485h-15.485v15.485" fill="#cdd3df"/>
+    <path d="m349.96 371.44h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m365.45 371.44h15.485v-15.485h-15.485v15.485" fill="#829cc3"/>
+    <path d="m380.93 371.44h15.485v-15.485h-15.485v15.485" fill="#a7b6ce"/>
+    <path d="m396.42 371.44h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m86.722 355.95h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m102.21 355.95h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m117.69 355.95h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m133.18 355.95h15.485v-15.485h-15.485v15.485" fill="#cfd4e0"/>
+    <path d="m148.66 355.95h15.485v-15.485h-15.485v15.485" fill="#e5c3c1"/>
+    <path d="m164.15 355.95h15.485v-15.485h-15.485v15.485" fill="#f6f3f4"/>
+    <path d="m179.63 355.95h15.485v-15.485h-15.485v15.485" fill="#eeedf0"/>
+    <path d="m195.12 355.95h15.485v-15.485h-15.485v15.485" fill="#cfd4e0"/>
+    <g fill="#faf5f5">
+     <path d="m210.6 355.95h15.485v-15.485h-15.485v15.485"/>
+     <path d="m226.09 355.95h15.485v-15.485h-15.485v15.485"/>
+     <path d="m241.57 355.95h15.485v-15.485h-15.485v15.485"/>
+     <path d="m257.06 355.95h15.485v-15.485h-15.485v15.485"/>
+    </g>
+    <path d="m272.54 355.95h15.485v-15.485h-15.485v15.485" fill="#efd8d6"/>
+    <path d="m288.03 355.95h15.485v-15.485h-15.485v15.485" fill="#f3f1f3"/>
+    <path d="m303.51 355.95h15.485v-15.485h-15.485v15.485" fill="#eeedf0"/>
+    <path d="m319 355.95h15.485v-15.485h-15.485v15.485" fill="#f3f1f3"/>
+    <path d="m334.48 355.95h15.485v-15.485h-15.485v15.485" fill="#e7c8c6"/>
+    <path d="m349.96 355.95h15.485v-15.485h-15.485v15.485" fill="#f1eff2"/>
+    <path d="m365.45 355.95h15.485v-15.485h-15.485v15.485" fill="#bd6361"/>
+    <path d="m380.93 355.95h15.485v-15.485h-15.485v15.485" fill="#f6f3f4"/>
+    <path d="m396.42 355.95h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m86.722 340.47h15.485v-15.485h-15.485v15.485" fill="#e9e9ed"/>
+    <path d="m102.21 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m117.69 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m133.18 340.47h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m148.66 340.47h15.485v-15.485h-15.485v15.485" fill="#f7f4f5"/>
+    <path d="m164.15 340.47h15.485v-15.485h-15.485v15.485" fill="#bbc5d7"/>
+    <path d="m179.63 340.47h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m195.12 340.47h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m210.6 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m226.09 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m241.57 340.47h15.485v-15.485h-15.485v15.485" fill="#f9efee"/>
+    <path d="m257.06 340.47h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m272.54 340.47h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m288.03 340.47h15.485v-15.485h-15.485v15.485" fill="#ebeaee"/>
+    <path d="m303.51 340.47h15.485v-15.485h-15.485v15.485" fill="#faf3f3"/>
+    <path d="m319 340.47h15.485v-15.485h-15.485v15.485" fill="#cb8481"/>
+    <path d="m334.48 340.47h15.485v-15.485h-15.485v15.485" fill="#faf0ef"/>
+    <path d="m349.96 340.47h15.485v-15.485h-15.485v15.485" fill="#c77b78"/>
+    <path d="m365.45 340.47h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m380.93 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m396.42 340.47h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m86.722 324.98h15.485v-15.485h-15.485v15.485" fill="#f3f1f3"/>
+    <path d="m102.21 324.98h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m117.69 324.98h15.485v-15.485h-15.485v15.485" fill="#e7e7ec"/>
+    <path d="m133.18 324.98h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m148.66 324.98h15.485v-15.485h-15.485v15.485" fill="#eacdcb"/>
+    <path d="m164.15 324.98h15.485v-15.485h-15.485v15.485" fill="#cc8582"/>
+    <path d="m179.63 324.98h15.485v-15.485h-15.485v15.485" fill="#e6e6ec"/>
+    <path d="m195.12 324.98h15.485v-15.485h-15.485v15.485" fill="#c7cedc"/>
+    <path d="m210.6 324.98h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m226.09 324.98h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m241.57 324.98h15.485v-15.485h-15.485v15.485" fill="#f9eeed"/>
+    <path d="m257.06 324.98h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m272.54 324.98h15.485v-15.485h-15.485v15.485" fill="#f2e0df"/>
+    <path d="m288.03 324.98h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m303.51 324.98h15.485v-15.485h-15.485v15.485" fill="#aab8d0"/>
+    <path d="m319 324.98h15.485v-15.485h-15.485v15.485" fill="#f5f2f4"/>
+    <path d="m334.48 324.98h15.485v-15.485h-15.485v15.485" fill="#dfe1e8"/>
+    <path d="m349.96 324.98h15.485v-15.485h-15.485v15.485" fill="#f3e2e0"/>
+    <path d="m365.45 324.98h15.485v-15.485h-15.485v15.485" fill="#f5f2f4"/>
+    <path d="m380.93 324.98h15.485v-15.485h-15.485v15.485" fill="#c16d6b"/>
+    <path d="m396.42 324.98h15.485v-15.485h-15.485v15.485" fill="#e1e2e9"/>
+    <path d="m86.722 309.5h15.485v-15.485h-15.485v15.485" fill="#c7cedc"/>
+    <path d="m102.21 309.5h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m117.69 309.5h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m133.18 309.5h15.485v-15.485h-15.485v15.485" fill="#efeef1"/>
+    <path d="m148.66 309.5h15.485v-15.485h-15.485v15.485" fill="#e7e7ec"/>
+    <path d="m164.15 309.5h15.485v-15.485h-15.485v15.485" fill="#ecd2d0"/>
+    <path d="m179.63 309.5h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m195.12 309.5h15.485v-15.485h-15.485v15.485" fill="#e3bdbb"/>
+    <path d="m210.6 309.5h15.485v-15.485h-15.485v15.485" fill="#faf5f5"/>
+    <path d="m226.09 309.5h15.485v-15.485h-15.485v15.485" fill="#f5e7e5"/>
+    <path d="m241.57 309.5h15.485v-15.485h-15.485v15.485" fill="#ebeaee"/>
+    <path d="m257.06 309.5h15.485v-15.485h-15.485v15.485" fill="#bfc8d8"/>
+    <path d="m272.54 309.5h15.485v-15.485h-15.485v15.485" fill="#f6e8e7"/>
+    <path d="m288.03 309.5h15.485v-15.485h-15.485v15.485" fill="#b7c2d5"/>
+    <path d="m303.51 309.5h15.485v-15.485h-15.485v15.485" fill="#daa8a5"/>
+    <path d="m319 309.5h15.485v-15.485h-15.485v15.485" fill="#ebeaee"/>
+    <path d="m334.48 309.5h15.485v-15.485h-15.485v15.485" fill="#ebeaee"/>
+    <path d="m349.96 309.5h15.485v-15.485h-15.485v15.485" fill="#e9e9ed"/>
+    <path d="m365.45 309.5h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m380.93 309.5h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m396.42 309.5h15.485v-15.485h-15.485v15.485" fill="#d9a5a2"/>
+    <path d="m86.722 294.01h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m102.21 294.01h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m117.69 294.01h15.485v-15.485h-15.485v15.485" fill="#dcdee6"/>
+    <path d="m133.18 294.01h15.485v-15.485h-15.485v15.485" fill="#e7e7ec"/>
+    <path d="m148.66 294.01h15.485v-15.485h-15.485v15.485" fill="#f0dbda"/>
+    <path d="m164.15 294.01h15.485v-15.485h-15.485v15.485" fill="#d7dae4"/>
+    <path d="m179.63 294.01h15.485v-15.485h-15.485v15.485" fill="#c2cada"/>
+    <path d="m195.12 294.01h15.485v-15.485h-15.485v15.485" fill="#f8f4f5"/>
+    <path d="m210.6 294.01h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m226.09 294.01h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m241.57 294.01h15.485v-15.485h-15.485v15.485" fill="#daa9a7"/>
+    <path d="m257.06 294.01h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m272.54 294.01h15.485v-15.485h-15.485v15.485" fill="#92a7c8"/>
+    <path d="m288.03 294.01h15.485v-15.485h-15.485v15.485" fill="#c7cedc"/>
+    <path d="m303.51 294.01h15.485v-15.485h-15.485v15.485" fill="#c8cfdd"/>
+    <path d="m319 294.01h15.485v-15.485h-15.485v15.485" fill="#9aadca"/>
+    <path d="m334.48 294.01h15.485v-15.485h-15.485v15.485" fill="#d9a6a4"/>
+    <path d="m349.96 294.01h15.485v-15.485h-15.485v15.485" fill="#266abd"/>
+    <path d="m365.45 294.01h15.485v-15.485h-15.485v15.485" fill="#e2e3ea"/>
+    <path d="m380.93 294.01h15.485v-15.485h-15.485v15.485" fill="#e1e2e9"/>
+    <path d="m396.42 294.01h15.485v-15.485h-15.485v15.485" fill="#faf5f4"/>
+    <path d="m86.722 278.53h15.485v-15.485h-15.485v15.485" fill="#e7e7ec"/>
+    <path d="m102.21 278.53h15.485v-15.485h-15.485v15.485" fill="#ecebef"/>
+    <path d="m117.69 278.53h15.485v-15.485h-15.485v15.485" fill="#deb2b0"/>
+    <path d="m133.18 278.53h15.485v-15.485h-15.485v15.485" fill="#f3f1f3"/>
+    <path d="m148.66 278.53h15.485v-15.485h-15.485v15.485" fill="#f7eae8"/>
+    <path d="m164.15 278.53h15.485v-15.485h-15.485v15.485" fill="#a8b7cf"/>
+    <path d="m179.63 278.53h15.485v-15.485h-15.485v15.485" fill="#d29491"/>
+    <path d="m195.12 278.53h15.485v-15.485h-15.485v15.485" fill="#c3cbda"/>
+    <path d="m210.6 278.53h15.485v-15.485h-15.485v15.485" fill="#ecebef"/>
+    <path d="m226.09 278.53h15.485v-15.485h-15.485v15.485" fill="#dfe1e8"/>
+    <path d="m241.57 278.53h15.485v-15.485h-15.485v15.485" fill="#c2cada"/>
+    <path d="m257.06 278.53h15.485v-15.485h-15.485v15.485" fill="#d7a09d"/>
+    <path d="m272.54 278.53h15.485v-15.485h-15.485v15.485" fill="#bbc5d7"/>
+    <path d="m288.03 278.53h15.485v-15.485h-15.485v15.485" fill="#f5f2f4"/>
+    <path d="m303.51 278.53h15.485v-15.485h-15.485v15.485" fill="#daa8a5"/>
+    <path d="m319 278.53h15.485v-15.485h-15.485v15.485" fill="#dcdee6"/>
+    <path d="m334.48 278.53h15.485v-15.485h-15.485v15.485" fill="#cfd4e0"/>
+    <path d="m349.96 278.53h15.485v-15.485h-15.485v15.485" fill="#cfd4e0"/>
+    <path d="m365.45 278.53h15.485v-15.485h-15.485v15.485" fill="#ecebef"/>
+    <path d="m380.93 278.53h15.485v-15.485h-15.485v15.485" fill="#ecebef"/>
+    <path d="m396.42 278.53h15.485v-15.485h-15.485v15.485" fill="#d7dae4"/>
+    <path d="m86.722 263.04h15.485v-15.485h-15.485v15.485" fill="#f2e0df"/>
+    <path d="m102.21 263.04h15.485v-15.485h-15.485v15.485" fill="#cad0dd"/>
+    <path d="m117.69 263.04h15.485v-15.485h-15.485v15.485" fill="#bfc8d8"/>
+    <path d="m133.18 263.04h15.485v-15.485h-15.485v15.485" fill="#a3b4cd"/>
+    <path d="m148.66 263.04h15.485v-15.485h-15.485v15.485" fill="#f9f5f5"/>
+    <path d="m164.15 263.04h15.485v-15.485h-15.485v15.485" fill="#7393c0"/>
+    <path d="m179.63 263.04h15.485v-15.485h-15.485v15.485" fill="#b3bfd3"/>
+    <path d="m195.12 263.04h15.485v-15.485h-15.485v15.485" fill="#eed7d5"/>
+    <path d="m210.6 263.04h15.485v-15.485h-15.485v15.485" fill="#ddafad"/>
+    <path d="m226.09 263.04h15.485v-15.485h-15.485v15.485" fill="#cad0dd"/>
+    <path d="m241.57 263.04h15.485v-15.485h-15.485v15.485" fill="#bdc6d7"/>
+    <path d="m257.06 263.04h15.485v-15.485h-15.485v15.485" fill="#f4e3e2"/>
+    <path d="m272.54 263.04h15.485v-15.485h-15.485v15.485" fill="#b0bdd2"/>
+    <path d="m288.03 263.04h15.485v-15.485h-15.485v15.485" fill="#f2e0df"/>
+    <path d="m303.51 263.04h15.485v-15.485h-15.485v15.485" fill="#aab8d0"/>
+    <path d="m319 263.04h15.485v-15.485h-15.485v15.485" fill="#cfd4e0"/>
+    <path d="m334.48 263.04h15.485v-15.485h-15.485v15.485" fill="#afbcd1"/>
+    <path d="m349.96 263.04h15.485v-15.485h-15.485v15.485" fill="#d7dae4"/>
+    <path d="m365.45 263.04h15.485v-15.485h-15.485v15.485" fill="#c8cfdd"/>
+    <path d="m380.93 263.04h15.485v-15.485h-15.485v15.485" fill="#b3bfd3"/>
+    <path d="m396.42 263.04h15.485v-15.485h-15.485v15.485" fill="#d7dae4"/>
+   </g>
+  </g>
+  <g transform="translate(-3,-1.5)">
+   <path d="m94.464 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -84.916 181.91)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C10098</tspan> G11</tspan></text>
+   </g>
+   <path d="m109.95 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -77.173 189.65)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C10675</tspan> G11</tspan></text>
+   </g>
+   <path d="m125.43 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -63.786 191.75)">
+    <text transform="scale(1,-1)" dominant-baseline="auto" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" stop-color="#000000" style="-inkscape-stroke:none;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;line-height:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C11039</tspan> G3 G4</tspan></text>
+   </g>
+   <path d="m140.92 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -.42605 143.88)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C2998</tspan> G2, <tspan font-weight="bold">C7614</tspan> G3, <tspan font-weight="bold">C7696</tspan> G0-G3</tspan></text>
+   </g>
+   <path d="m156.4 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -60.477 219.41)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C3054</tspan> G0</tspan></text>
+   </g>
+   <path d="m171.89 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -52.734 227.15)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C3454</tspan> G0</tspan></text>
+   </g>
+   <path d="m187.37 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -41.811 231.72)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C3536</tspan> G10</tspan></text>
+   </g>
+   <path d="m202.86 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -37.379 242.77)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C3581</tspan> G1</tspan></text>
+   </g>
+   <path d="m218.34 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -29.612 250.49)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C4073</tspan> G5</tspan></text>
+   </g>
+   <path d="m233.83 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -21.894 258.25)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C4077</tspan> G1</tspan></text>
+   </g>
+   <path d="m249.31 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -10.824 262.67)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C4078</tspan> G16</tspan></text>
+   </g>
+   <path d="m264.8 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 -6.2795 273.61)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C4858</tspan> G0</tspan></text>
+   </g>
+   <path d="m280.28 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 1.48 281.33)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C5107</tspan> G6</tspan></text>
+   </g>
+   <path d="m295.77 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 12.282 286.02)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C6078</tspan> G25</tspan></text>
+   </g>
+   <path d="m311.25 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 16.948 296.84)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C6086</tspan> G0</tspan></text>
+   </g>
+   <path d="m326.74 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 57.039 272.23)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C6142</tspan> G0 G1 G13 G14</tspan></text>
+   </g>
+   <path d="m342.22 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 58.67 286.08)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C6589</tspan> G1-G3 G6 G7</tspan></text>
+   </g>
+   <path d="m357.71 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 55.182 305.06)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C6612</tspan> G19 G20</tspan></text>
+   </g>
+   <path d="m373.19 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 62.83 312.89)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C7067</tspan> G16 G17</tspan></text>
+   </g>
+   <path d="m388.68 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 64.535 326.67)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0"><tspan font-weight="bold">C9458</tspan> G0-G2</tspan></text>
+   </g>
+   <path d="m404.16 337.56v-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="rotate(90 92.431 314.26)">
+    <text transform="scale(1,-1)" x="-1.7675773" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="-1.7675773" y="0"><tspan font-weight="bold">C9591</tspan> G0-G4 G6-G10</tspan></text>
+   </g>
+   <path d="m86.722 484.66h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(21.582 481.9)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">conglutinans</tspan></text>
+   </g>
+   <path d="m86.722 469.18h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(17.959 466.42)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">cucumerinum</tspan></text>
+   </g>
+   <path d="m86.722 453.69h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(36.875 450.94)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">fragariae</tspan></text>
+   </g>
+   <path d="m86.722 438.21h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(65.034 435.45)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lini</tspan></text>
+   </g>
+   <path d="m86.722 422.72h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(31.47 419.97)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">lycopersici</tspan></text>
+   </g>
+   <path d="m86.722 407.24h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(45.083 404.48)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">melonis</tspan></text>
+   </g>
+   <path d="m86.722 391.75h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(46.563 389)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">niveum</tspan></text>
+   </g>
+   <path d="m86.722 376.27h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(46.865 373.51)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">physali</tspan></text>
+   </g>
+   <path d="m86.722 360.78h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(37.344 358.03)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">spinaciae</tspan></text>
+   </g>
+   <path d="m86.722 345.3h-3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(25.23 342.54)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="Georgia" font-size="10px" xml:space="preserve"><tspan x="0" y="0" font-style="italic">vasinfectum</tspan></text>
+   </g>
+   <g fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".8">
+    <path d="m86.722 337.56v154.85"/>
+    <path d="m411.9 337.56v154.85"/>
+    <path d="m86.722 337.56h325.18"/>
+    <path d="m86.722 492.41h325.18"/>
+   </g>
+   <g transform="matrix(17.28,0,0,336.24,432,156.96)">
+    <image transform="matrix(1,0,0,-1,0,1)" width="1" height="1" image-rendering="optimizeSpeed" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAHTCAYAAAA9L9g7AAAABHNCSVQICAgIfAhkiAAAAnpJREFUeJztnMFtJEEMA3sWk5MfjviCvPVlsHUfjkGiKgALEiW2uj3Y68/X988J8kr+8XPOuc/rigbIZ3Bd2Rj31V+i+gxOWGQ1QO7rqs/gFbaKBTetzyAsshogE3PgVvGZgUE79YM20EX1m13a7AbOA62CUAMkPgcDbuo9mfBEQybW97hV1IvsiQaoATKgQdwqFty0XuR6DdzsOEB9ibQKQg2QAQ3iVuHiRfQvXk9YhRp8pn8vGlgd+88Dz2Si/0zWKpD+EtmmyIBV5P8jXr94eQEhXH4RLyD/EaC+RJ7JhBogAxrEP8n1lknYpsiEVaQHrX7x6t8qHDRCDZAnzuR6kTU7wNcWZEADtwpiQWQ1AHwURHwURFx+Ea0CeeLb9/4S1WfgoAHaNeLX+8hCm/ZbxUAXtWvgd3bEQJsOvLbUZ9C/Xae76D6nXuRsAgMixzPoD9A/B/kSRX/J+SyU6AENwiI80UXZFPo1GBD5HU7hCZH7M8gGsIuQeBfd77cl+oxtikx0UTiAIhNaBbLQRfUZ/ITnYKFE/atjvdktdFF7BmkNBtp0wCr623Sgi9ozCEuwUaL6DAYGLRugv4sWBq2+TdNu6omGDNh1/lFwYNDaM/BEIzQ7JL++91uFg0Y4aMjAZpe/gLyjf3+gRJodMqCBT2rEgMgDg1a/2fWfyX7+QywMWr0GC4OmBhBgoEQDF5BsAAcNeeBJrb5EC2dyNoBbBWIXcQDdlDADRKtA+nfTgTbV7AgzQBasIv71/kCJsgHMAJkYtHgAT7TPmAEykIFW8esB+kvUf0dTA8QMOMBfSwSYATKQQXoOLBFimyIDGgxk8A7/HHV9if4Bb2I49S/6OfQAAAAASUVORK5CYII="/>
+   </g>
+   <path d="m449.05 190.41h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(456.05 186.61)">
+    <text transform="matrix(1 0 0 -1 8.3789 0)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">2</tspan></text>
+    <g transform="scale(.01)">
+     <g clip-path="url(#clipPath718)">
+      <path d="m106 355h626v-83h-626z"/>
+     </g>
+    </g>
+   </g>
+   <path d="m449.05 257.69h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(456.05 253.9)">
+    <text transform="matrix(1 0 0 -1 8.3789 0)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+    <g transform="scale(.01)">
+     <g clip-path="url(#clipPath738)">
+      <path d="m106 355h626v-83h-626z"/>
+     </g>
+    </g>
+   </g>
+   <path d="m449.05 324.98h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(456.05 321.18)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">0</tspan></text>
+   </g>
+   <path d="m449.05 392.27h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(456.05 388.47)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">1</tspan></text>
+   </g>
+   <path d="m449.05 459.56h3.5" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".8"/>
+   <g transform="translate(456.05 455.76)">
+    <text transform="scale(1,-1)" fill="#000000" font-family="'DejaVu Sans'" font-size="10px" xml:space="preserve"><tspan x="0" y="0">2</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
