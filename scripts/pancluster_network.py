@@ -187,6 +187,7 @@ def main() -> int:
     fig, axs = plt.subplots(
         n_rows, n_cols, layout="tight", figsize=(n_cols, n_rows * 1.1)
     )
+    palette_name = "muted"
 
     # Order BGC families first by size, then by number
     bgc_families = (
@@ -227,12 +228,13 @@ def main() -> int:
         # Query subgraph for BGC family
         bgc_family = bgc_families[index]
         bgcs = clustering[clustering == bgc_family].index
-        genomes = annotations.loc[bgcs, "Organism"].values
-        bgc_classes = annotations.loc[bgcs, "BiG-SCAPE class"]
 
         if len(bgcs) != 1:
             alpha = alphas[index]
             subgraph: nx.Graph = nx.subgraph(graph, bgcs)
+            bgcs = list(subgraph.nodes)
+            genomes = annotations.loc[bgcs, "Organism"].values
+            bgc_classes = annotations.loc[bgcs, "BiG-SCAPE class"]
             pos = nx.circular_layout(subgraph)
             x, y = zip(*pos.values())
             weights = [edge[2]["weight"] for edge in subgraph.edges(data=True)]
@@ -242,7 +244,7 @@ def main() -> int:
             )
             sns.scatterplot(
                 x=x, y=y, ax=ax, legend=False, style=bgc_classes,
-                markers=markers, palette=sns.color_palette("colorblind"),
+                markers=markers, palette=sns.color_palette(palette_name),
                 hue=genomes, hue_order=["MIBiG"] + organisms, ec="black"
             )
             ax.set_title(f"F{bgc_family}\n$\\alpha={alpha:.2f}$", fontsize=10)
@@ -269,7 +271,7 @@ def main() -> int:
 
             sns.scatterplot(
                 x=x, y=y, ax=ax, legend=False, style=list(markers),
-                markers=markers, palette=sns.color_palette("colorblind"),
+                markers=markers, palette=sns.color_palette(palette_name),
                 hue=np.repeat(organism, 8), hue_order=["MIBiG"] + organisms,
                 ec="black"
             )
@@ -280,7 +282,7 @@ def main() -> int:
                 )
 
     # Create legend manually
-    palette = sns.color_palette("colorblind")
+    palette = sns.color_palette(palette_name)
     handles = [
         Line2D(
             [], [], color=fc, marker="o", label=label, lw=0, mec="black", mew=.5
@@ -293,7 +295,7 @@ def main() -> int:
     ]
 
     fig.legend(handles=handles, loc="lower right", ncols=l_cols)
-    fig.savefig(sys.stdout, format="svg", transparent=True)
+    fig.savefig(sys.stdout.buffer, format="pdf", transparent=True)
 
     return 0
 
