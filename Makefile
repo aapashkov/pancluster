@@ -35,6 +35,9 @@ root:
 build:
 > @docker build -t aapashkov/pancluster .
 
+rmi:
+> @docker rmi aapashkov/pancluster
+
 # Phylogenetic tree reconstruction
 results/markers/%.svg:
 > @$(call log,Building phylogenetic tree for $*) && \
